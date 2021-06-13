@@ -1,0 +1,108 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--#region Main Section-->
+
+    <v:String x:Key="LanguageString">Português - Brasil</v:String>
+
+    <!--#endregion-->
+
+    <!--#region UI -->
+
+    <v:String x:Key="Installer_Title">Assistente de Instalação do Minecraft Bedrock Launcher</v:String>
+
+    <v:String x:Key="Installer_Back_Text">Voltar</v:String>
+    <v:String x:Key="Installer_Next_Text">Próximo</v:String>
+    <v:String x:Key="Installer_Cancel_Text">Cancelar</v:String>
+    <v:String x:Key="Installer_Finish_Text">Finalizar</v:String>
+
+    <v:String x:Key="Installer_WelcomePage_Title">Bem-vindo ao Assistente de Instalação do Minecraft Bedrock Launcher</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">Isto vai instalar o Minecraft Bedrock Launcher no seu computador.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">É recomendado que feche todas as outras aplicações antes de continuar.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Clique em Próximo para continuar ou em Cancelar para sair do assistente.</v:String>
+
+    <v:String x:Key="Installer_LicenseAgreement_Title">Licença de Uso</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Por favor, leia a seguinte licença de uso. Aceite os termos de</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">uso antes de continuar com a instalação.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Eu concordo.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Eu não concordo.</v:String>
+
+    <v:String x:Key="Installer_InstallType_Title">Escolher tipo de instalação</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">Selecione a versão do launcher que quer instalar</v:String>
+
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Versão beta</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versão oficial</v:String>
+
+    <v:String x:Key="Installer_InstallLocation_Title">Escolher local de instalação</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">O assistente vai instalar o Minecraft Bedrock Launcher na seguinte pasta. Para instalar numa pasta diferente,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">clique em Procurar e selecione outra pasta.</v:String>
+
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Pasta de destino</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">PROCURAR</v:String>
+
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Criar um ícone no ambiente de trabalho</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Adicionar ao menu de início</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Registar programa</v:String>
+
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Abrir programa ao fechar</v:String>
+
+    <v:String x:Key="Installer_InstallationProgress_Title">Instalando</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Por favor, espere enquanto o assistente instala o Minecraft Bedrock Launcher no seu computador.</v:String>
+
+    <!--#endregion-->
+
+    <!--#region Dialog -->
+
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Não foi possível mover o diretório</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Não foi possível mover o arquivo</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">O arquivo está sendo utilizado</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Tentar novamente?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Ocorreu um erro.</v:String>
+
+    <!--#endregion-->
+
+    <!--#region ProgressBar -->
+
+    <v:String x:Key="Installer_ProgressBar_Downloading">Baixando...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizando...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">Iniciando...</v:String>
+
+    <!--#endregion-->
+
+    <!--#region GeneralText -->
+
+    <v:String x:Key="GeneralText_Delete">Excluir</v:String>
+    <v:String x:Key="GeneralText_Edit">Editar</v:String>
+    <v:String x:Key="GeneralText_Duplicate">Duplicar</v:String>
+    <v:String x:Key="GeneralText_Remove">Remover</v:String>
+    <v:String x:Key="GeneralText_Cancel">Cancelar</v:String>
+    <v:String x:Key="GeneralText_Update">Atualizar</v:String>
+    <v:String x:Key="GeneralText_Add">Adicionar</v:String>
+    <v:String x:Key="GeneralText_Save">Salvar</v:String>
+    <v:String x:Key="GeneralText_Refresh">Atualizar</v:String>
+    <v:String x:Key="GeneralText_Backup">Copiar</v:String>
+    <v:String x:Key="GeneralText_Versions">Versões</v:String>
+    <v:String x:Key="GeneralText_Browse">Procurar</v:String>
+    <v:String x:Key="GeneralText_Reset">Resetar</v:String>
+    <v:String x:Key="GeneralText_Yes">Sim</v:String>
+    <v:String x:Key="GeneralText_No">Não</v:String>
+    <v:String x:Key="GeneralText_Releases">Oficiais</v:String>
+    <v:String x:Key="GeneralText_Betas">Betas</v:String>
+    <v:String x:Key="GeneralText_Export">Exportar</v:String>
+    <v:String x:Key="GeneralText_Repair">Reparar</v:String>
+
+    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
+    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
+    <v:String x:Key="GeneralText_Website">Website</v:String>
+
+    <!--#endregion-->
+
+    <!--#region GeneralSubtitles -->
+
+    <v:String x:Key="GeneralSubtitles_Versions">VERSÕES</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">PROCURAR</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">REPOR</v:String>
+
+    <!--#endregion-->
+
+</ResourceDictionary>
