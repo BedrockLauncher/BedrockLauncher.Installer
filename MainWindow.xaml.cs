@@ -17,6 +17,7 @@ using BedrockLauncher.Installer.Pages;
 using System.Diagnostics;
 using System.Reflection;
 using BedrockLauncher.Installer.Classes;
+using System.Runtime.InteropServices;
 
 namespace BedrockLauncher.Installer
 {
@@ -134,8 +135,44 @@ namespace BedrockLauncher.Installer
             }
         }
 
+        public static bool ArchitextureTest()
+        {
+            var Architecture = RuntimeInformation.OSArchitecture;
+            bool canRun;
+            switch (Architecture)
+            {
+                case Architecture.Arm:
+                    ShowError("Unsupported Architexture", "This application can not run on ARM computers");
+                    canRun = false;
+                    break;
+                case Architecture.Arm64:
+                    ShowError("Unsupported Architexture", "This application can not run on ARM computers");
+                    canRun = false;
+                    break;
+                case Architecture.X86:
+                    ShowError("Unsupported Architexture", "This application can not run on x86 / 32-bit computers");
+                    canRun = false;
+                    break;
+                case Architecture.X64:
+                    canRun = true;
+                    break;
+                default:
+                    ShowError("Unsupported Architexture", "Unable to determine architexture, not supported");
+                    canRun = false;
+                    break;
+            }
+            return canRun;
+
+
+            void ShowError(string title, string message)
+            {
+                MessageBox.Show(message, title);
+            }
+        }
+
         private void Window_Initialized(object sender, EventArgs e)
         {
+            if (ArchitextureTest() == false) Environment.Exit(0);
             Installer.ProgressPage = installationProgressPage;
             string[] ConsoleArgs = Environment.GetCommandLineArgs();
             bool isSilent = false;
