@@ -12,7 +12,7 @@
 
     <v:String x:Key="Installer_Back_Text">Voltar</v:String>
     <v:String x:Key="Installer_Next_Text">Próximo</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
+    <v:String x:Key="Installer_Install_Text">Instalar</v:String>
     <v:String x:Key="Installer_Cancel_Text">Cancelar</v:String>
     <v:String x:Key="Installer_Finish_Text">Finalizar</v:String>
 
@@ -33,8 +33,8 @@
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Versão experiemental</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versão oficial</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">A versão mais estável do launcher, mas não a mais atualizada</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">A versão mais recente do launcher, mas ainda não completamente testada</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Escolher local de instalação</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">O assistente vai instalar o Minecraft Bedrock Launcher na seguinte pasta. Para instalar numa pasta diferente,</v:String>
