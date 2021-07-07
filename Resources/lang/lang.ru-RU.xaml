@@ -1,6 +1,5 @@
-﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
     <v:String x:Key="LanguageString">Русский - Россия</v:String>
@@ -13,6 +12,7 @@
 
     <v:String x:Key="Installer_Back_Text">Назад</v:String>
     <v:String x:Key="Installer_Next_Text">Далее</v:String>
+    <v:String x:Key="Installer_Install_Text">Install</v:String>
     <v:String x:Key="Installer_Cancel_Text">Отмена</v:String>
     <v:String x:Key="Installer_Finish_Text">Завершить</v:String>
 
@@ -33,16 +33,19 @@
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Бета-версия</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Релизная версия</v:String>
 
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+
     <v:String x:Key="Installer_InstallLocation_Title">Выбрать путь установки</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">Лаунчер Minecraft Bedrock будет установлен в следующую папку. Чтобы изменить путь установки,</v:String>
     <v:String x:Key="Installer_InstallLocation_Info2_Text">нажми Обзор и выбери другую папку.</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Конечная папка</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">ОБЗОР</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">ОБЗО</v:String>
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Создать ярлык на рабочем столе</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Добавить в меню "Пуск"</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Зарегистрировать программу</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Добавить в меню &quot;Пуск&quot;</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Зарегистрировать программ</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Запустить программу по завершению установки</v:String>
 
@@ -70,7 +73,6 @@
     <v:String x:Key="Installer_ProgressBar_Finalizing">Завершаем...</v:String>
     <v:String x:Key="Installer_ProgressBar_Initalizing">Инициализируем...</v:String>
 
-
     <!--#endregion-->
 
     <!--#region GeneralText -->
@@ -86,10 +88,10 @@
     <v:String x:Key="GeneralText_Refresh">Обновить</v:String>
     <v:String x:Key="GeneralText_Backup">Создать копию</v:String>
     <v:String x:Key="GeneralText_Versions">Версии</v:String>
-    <v:String x:Key="GeneralText_Browse">Обзор</v:String>
+    <v:String x:Key="GeneralText_Browse">Обзо</v:String>
     <v:String x:Key="GeneralText_Reset">Сбросить</v:String>
     <v:String x:Key="GeneralText_Yes">Да</v:String>
-    <v:String x:Key="GeneralText_No">Нет</v:String>
+    <v:String x:Key="GeneralText_No">Не</v:String>
     <v:String x:Key="GeneralText_Releases">Выпуски</v:String>
     <v:String x:Key="GeneralText_Betas">Бета-версии</v:String>
     <v:String x:Key="GeneralText_Export">Экспортировать</v:String>
@@ -97,17 +99,17 @@
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Сайт</v:String>
+    <v:String x:Key="GeneralText_Website">Сай</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">ВЕРСИИ</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">ОБЗОР</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">ОБЗО</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">СБРОСИТЬ</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">КАТЕГОРИИ</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">ПОИСК</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">ПОИС</v:String>
 
     <!--#endregion-->
 
