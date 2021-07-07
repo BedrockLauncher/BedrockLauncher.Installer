@@ -1,6 +1,5 @@
-<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
     <v:String x:Key="LanguageString">Português - Brasil</v:String>
@@ -13,6 +12,7 @@
 
     <v:String x:Key="Installer_Back_Text">Voltar</v:String>
     <v:String x:Key="Installer_Next_Text">Próximo</v:String>
+    <v:String x:Key="Installer_Install_Text">Install</v:String>
     <v:String x:Key="Installer_Cancel_Text">Cancelar</v:String>
     <v:String x:Key="Installer_Finish_Text">Finalizar</v:String>
 
@@ -33,6 +33,9 @@
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Versão beta</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versão oficial</v:String>
 
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+
     <v:String x:Key="Installer_InstallLocation_Title">Escolher local de instalação</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">O assistente vai instalar o Minecraft Bedrock Launcher na seguinte pasta. Para instalar numa pasta diferente,</v:String>
     <v:String x:Key="Installer_InstallLocation_Info2_Text">clique em Procurar e selecione outra pasta.</v:String>
@@ -46,8 +49,11 @@
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Abrir programa ao fechar</v:String>
 
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+
     <v:String x:Key="Installer_InstallationProgress_Title">Instalando</v:String>
     <v:String x:Key="Installer_InstallationProgress_Info_Text">Por favor, espere enquanto o assistente instala o Minecraft Bedrock Launcher no seu computador.</v:String>
+
 
     <!--#endregion-->
 
@@ -102,6 +108,8 @@
     <v:String x:Key="GeneralSubtitles_Versions">VERSÕES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">PROCURAR</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">REPOR</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
 
     <!--#endregion-->
 
