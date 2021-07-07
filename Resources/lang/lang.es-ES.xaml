@@ -10,21 +10,21 @@
 
     <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">Atrás</v:String>
+    <v:String x:Key="Installer_Next_Text">Siguiente</v:String>
+    <v:String x:Key="Installer_Install_Text">Instalar</v:String>
+    <v:String x:Key="Installer_Cancel_Text">Cancelar</v:String>
+    <v:String x:Key="Installer_Finish_Text">Finalizar</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Bienvenido al instalador del launcher de Minecraft Bedrock</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">Vamos a instalar el Launcher de Minecraft Bedrock en tu computadora.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">Recomendamos cerrar las demás aplicaciones antes de continuar.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Haz click en continuar o cancelar para cerrar el instalador.</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">Acuerdo de licencia</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Por favor lee el siguiente acuerdo de licencia, debes aceptar para continuar.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">Acepta antes de continuar con la instalación.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Acepto la licencia.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
 
     <v:String x:Key="Installer_InstallType_Title">Choose Install Type</v:String>
