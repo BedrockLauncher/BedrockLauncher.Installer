@@ -1,0 +1,6 @@
+base_path: /Resources/lang
+base_url: 'https://api.crowdin.com'
+preserve_hierarchy: true
+files:
+  - source: /lang.en-US.xaml
+    translation: /lang.%locale%.xaml
