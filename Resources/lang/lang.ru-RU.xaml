@@ -12,12 +12,12 @@
 
     <v:String x:Key="Installer_Back_Text">Назад</v:String>
     <v:String x:Key="Installer_Next_Text">Далее</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
+    <v:String x:Key="Installer_Install_Text">Установить</v:String>
     <v:String x:Key="Installer_Cancel_Text">Отмена</v:String>
     <v:String x:Key="Installer_Finish_Text">Завершить</v:String>
 
     <v:String x:Key="Installer_WelcomePage_Title">Добро пожаловать в программу установки лаунчера Minecraft Bedrock</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">Она установит лаунчер Minecraft Bedrock на твой компьютер.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">Пожалуйста, подожди, пока лаунчер Minecraft Bedrock устанавливается на твой компьютер.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">Рекомендуется закрыть все остальные приложения перед установкой.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Нажми Далее, чтобы продолжить, или нажми Отмена, чтобы отменить установку.</v:String>
 
@@ -33,8 +33,8 @@
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Бета-версия</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Релизная версия</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">Самая стабильная версия лаунчера, но не самая новая</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">Последняя версия лаунчера (нестабильная)</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Выбрать путь установки</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">Лаунчер Minecraft Bedrock будет установлен в следующую папку. Чтобы изменить путь установки,</v:String>
