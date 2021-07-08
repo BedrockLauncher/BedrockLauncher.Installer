@@ -85,31 +85,31 @@
     <v:String x:Key="GeneralText_Update">Actualizar</v:String>
     <v:String x:Key="GeneralText_Add">Añadir</v:String>
     <v:String x:Key="GeneralText_Save">Guardar</v:String>
-    <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
-    <v:String x:Key="GeneralText_Browse">Browse</v:String>
-    <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
+    <v:String x:Key="GeneralText_Refresh">Actualizar</v:String>
+    <v:String x:Key="GeneralText_Backup">Copias de seguridad</v:String>
+    <v:String x:Key="GeneralText_Versions">Versiones</v:String>
+    <v:String x:Key="GeneralText_Browse">Explorar</v:String>
+    <v:String x:Key="GeneralText_Reset">Reiniciar</v:String>
+    <v:String x:Key="GeneralText_Yes">Sí</v:String>
     <v:String x:Key="GeneralText_No">No</v:String>
     <v:String x:Key="GeneralText_Releases">Releases</v:String>
     <v:String x:Key="GeneralText_Betas">Betas</v:String>
-    <v:String x:Key="GeneralText_Export">Export</v:String>
-    <v:String x:Key="GeneralText_Repair">Repair</v:String>
+    <v:String x:Key="GeneralText_Export">Exportar</v:String>
+    <v:String x:Key="GeneralText_Repair">Reparar</v:String>
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Website">Sitio Web</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">VERSIONES</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">EXAMINAR</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">REESTABLECER</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">CATEGORÍAS</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">BUSCAR</v:String>
 
     <!--#endregion-->
 
