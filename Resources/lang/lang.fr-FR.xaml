@@ -8,7 +8,7 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Setup d'installation Minecraft Bedrock Launcher</v:String>
+    <v:String x:Key="Installer_Title">Guide d'installation Minecraft Bedrock Launcher</v:String>
 
     <v:String x:Key="Installer_Back_Text">Retour</v:String>
     <v:String x:Key="Installer_Next_Text">Suivant</v:String>
@@ -16,9 +16,10 @@
     <v:String x:Key="Installer_Cancel_Text">Annuler</v:String>
     <v:String x:Key="Installer_Finish_Text">Terminé</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Bienvenue dans le Setup d'installation du Launcher de Minecraft Bedrock</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Bienvenue dans le Guide d'installation 
+du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">Ceci installera Minecraft Bedrock Launcher sur votre ordinateur.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">Il est recommandé de fermer tout autres applications avant de continuer.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">Il est recommandé de fermer toutes les autres applications avant de poursuivre.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Cliquez sur Suivant pour continuer, ou Annuler pour quitter le Setup.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Contrat de Licence</v:String>
@@ -52,64 +53,64 @@
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Certains fichiers sont pour l'instant en cours d'utilisation par:</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Installation</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Veuillez patienter pendant que le Setup installe Minecraft Bedrock Launcher sur votre ordinateur.</v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Unable to Move File</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Try Again?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">An error has occurred.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Echec au déplacement du répertoire</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Impossible d'Enregistrer le Fichier</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">Fichier en cours d'utilisation</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Réessayer?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Une erreur est survenue.</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Downloading...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizing...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Initializing...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">Téléchargement...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalisation...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">Initialisation...</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Delete</v:String>
-    <v:String x:Key="GeneralText_Edit">Edit</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
-    <v:String x:Key="GeneralText_Remove">Remove</v:String>
-    <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
-    <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
-    <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
+    <v:String x:Key="GeneralText_Delete">Supprimer</v:String>
+    <v:String x:Key="GeneralText_Edit">Editer</v:String>
+    <v:String x:Key="GeneralText_Duplicate">Dupliquer</v:String>
+    <v:String x:Key="GeneralText_Remove">Retirer</v:String>
+    <v:String x:Key="GeneralText_Cancel">Annuler</v:String>
+    <v:String x:Key="GeneralText_Update">Mise à jour</v:String>
+    <v:String x:Key="GeneralText_Add">Ajouter</v:String>
+    <v:String x:Key="GeneralText_Save">Enregistrer</v:String>
+    <v:String x:Key="GeneralText_Refresh">Actualiser</v:String>
+    <v:String x:Key="GeneralText_Backup">Sauvegarde</v:String>
     <v:String x:Key="GeneralText_Versions">Versions</v:String>
-    <v:String x:Key="GeneralText_Browse">Browse</v:String>
+    <v:String x:Key="GeneralText_Browse">Parcourir</v:String>
     <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
-    <v:String x:Key="GeneralText_Releases">Releases</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
-    <v:String x:Key="GeneralText_Export">Export</v:String>
-    <v:String x:Key="GeneralText_Repair">Repair</v:String>
+    <v:String x:Key="GeneralText_Yes">Oui</v:String>
+    <v:String x:Key="GeneralText_No">Non</v:String>
+    <v:String x:Key="GeneralText_Releases">Versions</v:String>
+    <v:String x:Key="GeneralText_Betas">Bêtas</v:String>
+    <v:String x:Key="GeneralText_Export">Exporter</v:String>
+    <v:String x:Key="GeneralText_Repair">Réparer</v:String>
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Website">Site Web</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">PARCOURIR</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">CATÉGORIES</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">RECHERCHER</v:String>
 
     <!--#endregion-->
 
