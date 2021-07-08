@@ -8,7 +8,7 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_Title">Pemasang Perisian Pelancar Minecraft Bedrock</v:String>
 
     <v:String x:Key="Installer_Back_Text">Kembali</v:String>
     <v:String x:Key="Installer_Next_Text">Seterusnya</v:String>
@@ -16,7 +16,7 @@
     <v:String x:Key="Installer_Cancel_Text">Batal</v:String>
     <v:String x:Key="Installer_Finish_Text">Selesai</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Selamat Datang ke Pemasang Perisian Pelancar Minecraft Bedrock</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
