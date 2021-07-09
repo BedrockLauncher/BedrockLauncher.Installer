@@ -37,7 +37,7 @@
     <v:String x:Key="Installer_InstallType_BetaInfo">ランチャーの最新バージョンですが、テストされておらず、不安定です</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">インストール場所を選択します</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">セットアップにより、Minecraft Bedrock Launcherが次のフォルダーにインストールされます。 別のフォルダにインストールするには、「参照」をクリックして別のフォルダを選択します。</v:String>
     <v:String x:Key="Installer_InstallLocation_Info2_Text">「参照」をクリックして、別のフォルダを選択します。</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">移動先フォルダ</v:String>
