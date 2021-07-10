@@ -19,7 +19,7 @@
     <v:String x:Key="Installer_WelcomePage_Title">Віншуем у праграме ўсталёўкі лаунчера Minecraft Bedrock</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">Гэта ўсталюе лаунчер Minecraft Bedrock на твой камп'ютар.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">Перш чым працягваць, рэкамендуецца закрыць усе астатнія праграмы.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Націсніце Далей каб працягнуць, ці Адмена - каб выйсці з праграмы ўсталявання.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Націсні Далей каб працягнуць, ці Адмена - каб выйсці з праграмы ўсталявання.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Ліцэнзійнае пагадненне</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info_Text">Азнаёмся з наступным ліцэнзійным пагадненнем. Ты павіннен прыняць умовы гэтага</v:String>
@@ -27,7 +27,7 @@
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Я прымаю.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Я не прымаю.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Абярыце тып ўсталёўкі</v:String>
+    <v:String x:Key="Installer_InstallType_Title">Абяры тып ўсталёўкі</v:String>
     <v:String x:Key="Installer_InstallType_Info_Text">Выберы, якую версію лаунчера ты хочаш спампаваць</v:String>
 
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Бэта-версія</v:String>
@@ -38,7 +38,7 @@
 
     <v:String x:Key="Installer_InstallLocation_Title">Выберы месца ўсталявання</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">Лаунчер Minecraft Bedrock будзе ўсталяваны у наступную папку. Каб усталяваць у іншую папку,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">націсніце Агляд і абярыце іншую папку.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">націсні Агляд і абяры іншую папку.</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Папка прызначэння</v:String>
     <v:String x:Key="Installer_InstallLocation_Browse_Text">АГЛЯД</v:String>
@@ -99,17 +99,17 @@
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Сайт</v:String>
+    <v:String x:Key="GeneralText_Website">Сай</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІІ</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІ</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">АГЛЯД</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">СКІД</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">КАТЭГОРЫІ</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">ПОШУК</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">КАТЭГОРЫ</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">ПОШУ</v:String>
 
     <!--#endregion-->
 
