@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Perjanjian Lesen</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Sila baca Perjanjian Lesen berikut. Anda mesti menerima terma dalam perjanjian ini</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">sebelum meneruskan pemasangan.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Saya bersetuju.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Saya tidak bersetuju.</v:String>
