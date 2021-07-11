@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Naciśnij Dalej, aby kontynuować lub Anuluj, aby zamknąć Konfigurator.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Umowa licencyjna</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Przeczytaj następującą Umowę licencyjną. Musisz zaakceptować warunku tej</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">umowy przez kontynuowaniem instalacji.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Akceptuję umowę.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Nie akceptuję umowy.</v:String>
