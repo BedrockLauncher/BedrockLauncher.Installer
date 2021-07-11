@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Presiona Siguiente para continuar, o Cancelar para salir.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Acuerdo de Licencia</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Porfavor lee los siguientes Acuerdos de Licencia. Debes aceptar los términos de esto</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">acuerdo antes de continuar con la instalación.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Acepto la licencia.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">No acepto la licencia.</v:String>
