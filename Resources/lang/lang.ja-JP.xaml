@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">続行するには「次へ」、セットアップを終了するには「キャンセル」をクリックしてください。</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">ライセンス契約</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">次の使用許諾契約書をお読みください。 この条件に同意する必要があります</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">インストールを続行する前に同意してください。</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">ライセンスに同意します。</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">私は受け入れません。</v:String>
