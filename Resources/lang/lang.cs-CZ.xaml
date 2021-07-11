@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Pokračujte klepnutím na tlačítko Další, nebo ukončete průvodce instalací tlačítkem Zrušit.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Licenční smlouva</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Přečtěte si prosím následující licenční smlouvu. Podmínky této smlouvy musíte přijmout</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">souhlaste před pokračováním v instalaci.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Přijímám licenci.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Nepřijímám licenci.</v:String>
