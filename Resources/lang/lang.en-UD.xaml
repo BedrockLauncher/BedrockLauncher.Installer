@@ -2,27 +2,27 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">English - United States</v:String>
+    <v:String x:Key="LanguageString">sǝʇɐʇS pǝʇᴉu∩ - ɥsᴉlƃuƎ</v:String>
 
     <!--#endregion-->
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_Title">pɹɐzᴉM dnʇǝS ɹǝɥɔunɐ˥ ʞɔoɹpǝq ʇɟɐɹɔǝuᴉW</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">ʞɔɐq</v:String>
+    <v:String x:Key="Installer_Next_Text">ʇxǝN</v:String>
+    <v:String x:Key="Installer_Install_Text">llɐʇsuI</v:String>
+    <v:String x:Key="Installer_Cancel_Text">lǝɔuɐƆ</v:String>
+    <v:String x:Key="Installer_Finish_Text">ɥsᴉuᴉℲ</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">pɹɐzᴉM dnʇǝS ɹǝɥɔunɐ˥ ʞɔoɹpǝq ʇɟɐɹɔǝuᴉW ǝɥʇ oʇ ǝɯoɔlǝM</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">˙ɹǝʇndɯoɔ ɹnoʎ uo ɹǝɥɔunɐ˥ ʞɔoɹpǝq ʇɟɐɹɔǝuᴉW llɐʇsuᴉ llᴉʍ sᴉɥ┴</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">˙ƃuᴉnuᴉʇuoɔ ǝɹoɟǝq suoᴉʇɐɔᴉlddɐ ɹǝɥʇo llɐ ǝsolɔ noʎ ʇɐɥʇ pǝpuǝɯɯoɔǝɹ sᴉ ʇI</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">˙dnʇǝS ʇᴉxǝ oʇ lǝɔuɐƆ ɹo 'ǝnuᴉʇuoɔ oʇ ʇxǝN ʞɔᴉlƆ</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">ʇuǝɯǝǝɹƃ∀ ǝsuǝɔᴉ˥</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
@@ -82,9 +82,9 @@
     <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
     <v:String x:Key="GeneralText_Remove">Remove</v:String>
     <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
+    <v:String x:Key="GeneralText_Update">pǝʇɐpd∩</v:String>
     <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
+    <v:String x:Key="GeneralText_Save">ǝʌɐS</v:String>
     <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
     <v:String x:Key="GeneralText_Backup">Backup</v:String>
     <v:String x:Key="GeneralText_Versions">Versions</v:String>
@@ -106,10 +106,10 @@
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">ƎSMOɹq</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">┴ƎSƎɹ</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">SƎIɹOפƎ┴∀Ɔ</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">HƆɹ∀ƎS</v:String>
 
     <!--#endregion-->
 
