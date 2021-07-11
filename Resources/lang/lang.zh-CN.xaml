@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">单击“下一步”继续，或单击“取消”退出安装程序。</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">授权许可协议</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">请阅读以下许可协议。您必须接受此条款</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">在继续安装前达成协议。</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">我接受该许可。</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">我不接受该许可。</v:String>
