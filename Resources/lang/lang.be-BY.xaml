@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Націсні Далей каб працягнуць, ці Адмена - каб выйсці з праграмы ўсталявання.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Ліцэнзійнае пагадненне</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Азнаёмся з наступным ліцэнзійным пагадненнем. Ты павіннен прыняць гэтыя умовы.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">пагаднення, перш чым працягнуць усталёўку.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Я прымаю.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Я не прымаю.</v:String>
