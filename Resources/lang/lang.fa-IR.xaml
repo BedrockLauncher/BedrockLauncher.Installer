@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">برای ادامه دادن کلیک کنید, یا برای خروج لغو کنید.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">توافق نامه مجوز</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">لطفا توافق نامه مقابل را بخوانید. شما باید آنها را بپذیرید.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">قبول کردن قبل از ادامه نصب.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">من مجوز را قبول میکنم.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">من مجوز را قبول نمیکنم.</v:String>
