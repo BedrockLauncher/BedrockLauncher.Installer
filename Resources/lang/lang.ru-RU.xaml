@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Нажми Далее, чтобы продолжить, или нажми Отмена, чтобы отменить установку.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Лицензионное соглашение</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Пожалуйста, прочтите следующее лицензионное соглашение. Вы должны принять эти условия.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Прочитай следующее лицензионное соглашение. Тебе нужно принять</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">соглашение, чтобы продолжить установку.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Я принимаю.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Я не принимаю.</v:String>
@@ -41,7 +41,7 @@
     <v:String x:Key="Installer_InstallLocation_Info2_Text">нажми Обзор и выбери другую папку.</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Конечная папка</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">ОБЗО</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">ОБЗОР</v:String>
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Создать ярлык на рабочем столе</v:String>
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Добавить в меню &quot;Пуск&quot;</v:String>
@@ -88,10 +88,10 @@
     <v:String x:Key="GeneralText_Refresh">Обновить</v:String>
     <v:String x:Key="GeneralText_Backup">Создать копию</v:String>
     <v:String x:Key="GeneralText_Versions">Версии</v:String>
-    <v:String x:Key="GeneralText_Browse">Обзо</v:String>
+    <v:String x:Key="GeneralText_Browse">Обзор</v:String>
     <v:String x:Key="GeneralText_Reset">Сбросить</v:String>
     <v:String x:Key="GeneralText_Yes">Да</v:String>
-    <v:String x:Key="GeneralText_No">Не</v:String>
+    <v:String x:Key="GeneralText_No">Нет</v:String>
     <v:String x:Key="GeneralText_Releases">Выпуски</v:String>
     <v:String x:Key="GeneralText_Betas">Бета-версии</v:String>
     <v:String x:Key="GeneralText_Export">Экспортировать</v:String>
@@ -99,17 +99,17 @@
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Сай</v:String>
+    <v:String x:Key="GeneralText_Website">Сайт</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">ВЕРСИИ</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">ОБЗО</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">ОБЗОР</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">СБРОСИТЬ</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">КАТЕГОРИИ</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">ПОИС</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">ПОИСК</v:String>
 
     <!--#endregion-->
 
