@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">&quot;다음&quot;을 눌러 계속하거나, &quot;취소&quot;를 눌러 설치를 종료하세요.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">사용권 계약</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">설치를 계속하기 전 동의해주세요.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">사용권을 동의합니다.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">사용권을 동의하지 않습니다.</v:String>
