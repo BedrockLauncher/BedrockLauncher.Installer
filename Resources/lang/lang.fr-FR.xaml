@@ -23,7 +23,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Cliquez sur Suivant pour continuer, ou Annuler pour quitter le Setup.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Contrat de Licence</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">contrat avant de poursuivre l'installation.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">J'accepte la licence.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Je n'accepte pas la licence.</v:String>
