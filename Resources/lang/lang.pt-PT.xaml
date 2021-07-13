@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Clique em Próximo para continuar, ou em Cancelar para sair do assistente.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Licença de Uso</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Por favor, leia a seguinte licença de uso. Tens de aceitar os termos de</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">uso antes de continuar com a instalação.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Eu concordo.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Eu não concordo.</v:String>
