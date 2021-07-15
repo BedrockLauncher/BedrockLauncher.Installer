@@ -12,7 +12,7 @@
 
     <v:String x:Key="Installer_Back_Text">Voltar</v:String>
     <v:String x:Key="Installer_Next_Text">Próximo</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
+    <v:String x:Key="Installer_Install_Text"></v:String>
     <v:String x:Key="Installer_Cancel_Text">Cancelar</v:String>
     <v:String x:Key="Installer_Finish_Text">Finalizar</v:String>
 
@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Clique em Próximo para continuar ou em Cancelar para sair do assistente.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Licença de Uso</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Por favor, leia a seguinte licença de uso. Aceite os termos de</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">uso antes de continuar com a instalação.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Eu concordo.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Eu não concordo.</v:String>
@@ -33,8 +33,8 @@
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Versão beta</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versão oficial</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo"></v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo"></v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Escolher local de instalação</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">O assistente vai instalar o Minecraft Bedrock Launcher na seguinte pasta. Para instalar numa pasta diferente,</v:String>
@@ -49,7 +49,7 @@
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Abrir programa ao finalizar</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Instalando</v:String>
     <v:String x:Key="Installer_InstallationProgress_Info_Text">Por favor, aguarde enquanto o assistente instala o Minecraft Bedrock Launcher no seu computador.</v:String>
@@ -93,13 +93,13 @@
     <v:String x:Key="GeneralText_Yes">Sim</v:String>
     <v:String x:Key="GeneralText_No">Não</v:String>
     <v:String x:Key="GeneralText_Releases">Lançamentos</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
+    <v:String x:Key="GeneralText_Betas"></v:String>
     <v:String x:Key="GeneralText_Export">Exportar</v:String>
     <v:String x:Key="GeneralText_Repair">Reparar</v:String>
 
-    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
-    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Twitter"></v:String>
+    <v:String x:Key="GeneralText_GitHub"></v:String>
+    <v:String x:Key="GeneralText_Website"></v:String>
 
     <!--#endregion-->
 
@@ -108,8 +108,8 @@
     <v:String x:Key="GeneralSubtitles_Versions">VERSÕES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">BUSCAR</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
+    <v:String x:Key="GeneralSubtitles_Search"></v:String>
 
     <!--#endregion-->
 
