@@ -26,24 +26,18 @@ namespace BedrockLauncher.Installer.Pages
 
         private void Page_Initialized(object sender, EventArgs e)
         {
-            installPathTextBox.Text = Path.Combine(ProgramFilesx86(), "Minecraft Bedrock Launcher");
+            installPathTextBox.Text = Path.Combine(ProgramFiles(), "Minecraft Bedrock Launcher");
         }
-        static string ProgramFilesx86()
+        static string ProgramFiles()
         {
-            if (8 == IntPtr.Size
-                || (!String.IsNullOrEmpty(Environment.GetEnvironmentVariable("PROCESSOR_ARCHITEW6432"))))
-            {
-                return Environment.GetEnvironmentVariable("ProgramFiles(x86)");
-            }
-
-            return Environment.GetEnvironmentVariable("ProgramFiles");
+            return Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles);
         }
 
         private void browseBtn_Click(object sender, RoutedEventArgs e)
         {
             using (var folderBrowser = new System.Windows.Forms.FolderBrowserDialog())
             {
-                folderBrowser.SelectedPath = ProgramFilesx86();
+                folderBrowser.SelectedPath = ProgramFiles();
                 System.Windows.Forms.DialogResult result = folderBrowser.ShowDialog();
 
                 if (result == System.Windows.Forms.DialogResult.OK && !string.IsNullOrWhiteSpace(folderBrowser.SelectedPath))
