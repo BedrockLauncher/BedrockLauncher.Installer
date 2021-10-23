@@ -12,7 +12,7 @@
 
     <v:String x:Key="Installer_Back_Text">Voltar</v:String>
     <v:String x:Key="Installer_Next_Text">Próximo</v:String>
-    <v:String x:Key="Installer_Install_Text"></v:String>
+    <v:String x:Key="Installer_Install_Text">Instalar</v:String>
     <v:String x:Key="Installer_Cancel_Text">Cancelar</v:String>
     <v:String x:Key="Installer_Finish_Text">Finalizar</v:String>
 
@@ -33,8 +33,8 @@
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Versão beta</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versão oficial</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo"></v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo"></v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">A versão mais estável do launcher, mas não é a mais atualizada</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">A última versão do launcher, mas não foi testada</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Escolher local de instalação</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">O assistente vai instalar o Minecraft Bedrock Launcher na seguinte pasta. Para instalar numa pasta diferente,</v:String>
@@ -49,7 +49,7 @@
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Abrir programa ao finalizar</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Alguns dos arquivos estão no momento em uso pelos seguintes:</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Instalando</v:String>
     <v:String x:Key="Installer_InstallationProgress_Info_Text">Por favor, aguarde enquanto o assistente instala o Minecraft Bedrock Launcher no seu computador.</v:String>
@@ -93,13 +93,13 @@
     <v:String x:Key="GeneralText_Yes">Sim</v:String>
     <v:String x:Key="GeneralText_No">Não</v:String>
     <v:String x:Key="GeneralText_Releases">Lançamentos</v:String>
-    <v:String x:Key="GeneralText_Betas"></v:String>
+    <v:String x:Key="GeneralText_Betas">Betas</v:String>
     <v:String x:Key="GeneralText_Export">Exportar</v:String>
     <v:String x:Key="GeneralText_Repair">Reparar</v:String>
 
-    <v:String x:Key="GeneralText_Twitter"></v:String>
-    <v:String x:Key="GeneralText_GitHub"></v:String>
-    <v:String x:Key="GeneralText_Website"></v:String>
+    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
+    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
+    <v:String x:Key="GeneralText_Website">Site</v:String>
 
     <!--#endregion-->
 
@@ -108,8 +108,8 @@
     <v:String x:Key="GeneralSubtitles_Versions">VERSÕES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">BUSCAR</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
-    <v:String x:Key="GeneralSubtitles_Search"></v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIAS</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">PESQUISA</v:String>
 
     <!--#endregion-->
 
