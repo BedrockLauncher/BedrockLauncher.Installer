@@ -10,11 +10,11 @@
 
     <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">Артҡа</v:String>
+    <v:String x:Key="Installer_Next_Text">Киләһе</v:String>
+    <v:String x:Key="Installer_Install_Text">Урынлаштырырға</v:String>
+    <v:String x:Key="Installer_Cancel_Text">Бөтөрөргә</v:String>
+    <v:String x:Key="Installer_Finish_Text">Тамамларға</v:String>
 
     <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
@@ -77,21 +77,21 @@
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Delete</v:String>
-    <v:String x:Key="GeneralText_Edit">Edit</v:String>
+    <v:String x:Key="GeneralText_Delete">Юйырға</v:String>
+    <v:String x:Key="GeneralText_Edit">Үҙгәртергә</v:String>
     <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
-    <v:String x:Key="GeneralText_Remove">Remove</v:String>
-    <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
+    <v:String x:Key="GeneralText_Remove">Юйырға</v:String>
+    <v:String x:Key="GeneralText_Cancel">Бөтөрөргә</v:String>
     <v:String x:Key="GeneralText_Update">Update</v:String>
-    <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
+    <v:String x:Key="GeneralText_Add">Өҫтәргә</v:String>
+    <v:String x:Key="GeneralText_Save">Һаҡларға</v:String>
     <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
     <v:String x:Key="GeneralText_Backup">Backup</v:String>
     <v:String x:Key="GeneralText_Versions">Versions</v:String>
     <v:String x:Key="GeneralText_Browse">Browse</v:String>
     <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
+    <v:String x:Key="GeneralText_Yes">Эйе</v:String>
+    <v:String x:Key="GeneralText_No">Юҡ</v:String>
     <v:String x:Key="GeneralText_Releases">Releases</v:String>
     <v:String x:Key="GeneralText_Betas">Betas</v:String>
     <v:String x:Key="GeneralText_Export">Export</v:String>
@@ -99,7 +99,7 @@
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Website">Сайт</v:String>
 
     <!--#endregion-->
 
@@ -109,7 +109,7 @@
     <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">ЭҘЛӘҮ</v:String>
 
     <!--#endregion-->
 
