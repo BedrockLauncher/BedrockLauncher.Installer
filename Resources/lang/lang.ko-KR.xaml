@@ -28,88 +28,88 @@
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">사용권을 동의하지 않습니다.</v:String>
 
     <v:String x:Key="Installer_InstallType_Title">설치 형태를 선택해주세요.</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">다운로드하고 싶은 런처의 버전을 선택하세요</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text"></v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">베타 버전</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">정식 버전</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo"></v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo"></v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">안정한 버전의 런처이지만, 가장 최신 버전의 런처는 아닙니다</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">최신 버전의 런처이지만, 안정성이 검증되지 않았습니다</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">설치 경로 선택</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">설치 프로그램이 마인크래프트 베드락 런처를 아래 폴더에 설치할 것입니다. 다른 폴더에 설치하려면,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">'탐색'을 누르고 다른 폴더를 선택하십시오.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">대상 폴더</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">탐색</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">바탕화면에 아이콘 생성</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">시작 메뉴에 추가</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">프로그램 등록</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">종료 시 프로그램 시작</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">아래 프로그램이 파일 중 일부를 사용하고 있습니다:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title"></v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">설치 중</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">설치 프로그램이 마인크래프트 베드락 런처를 설치할 때까지 기다려주십시오.</v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">경로를 이동할 수 없습니다</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">파일을 이동할 수 없습니다</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">파일이 사용 중입니다</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">다시 시도하시겠습니까?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">오류가 발생했습니다.</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading"></v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing"></v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">다운로드하는 중...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">마무리하는 중...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">초기화하는 중...</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete"></v:String>
-    <v:String x:Key="GeneralText_Edit"></v:String>
-    <v:String x:Key="GeneralText_Duplicate"></v:String>
-    <v:String x:Key="GeneralText_Remove"></v:String>
-    <v:String x:Key="GeneralText_Cancel"></v:String>
-    <v:String x:Key="GeneralText_Update"></v:String>
-    <v:String x:Key="GeneralText_Add"></v:String>
-    <v:String x:Key="GeneralText_Save"></v:String>
-    <v:String x:Key="GeneralText_Refresh"></v:String>
-    <v:String x:Key="GeneralText_Backup"></v:String>
-    <v:String x:Key="GeneralText_Versions"></v:String>
-    <v:String x:Key="GeneralText_Browse"></v:String>
-    <v:String x:Key="GeneralText_Reset"></v:String>
-    <v:String x:Key="GeneralText_Yes"></v:String>
-    <v:String x:Key="GeneralText_No"></v:String>
-    <v:String x:Key="GeneralText_Releases"></v:String>
-    <v:String x:Key="GeneralText_Betas"></v:String>
-    <v:String x:Key="GeneralText_Export"></v:String>
-    <v:String x:Key="GeneralText_Repair"></v:String>
+    <v:String x:Key="GeneralText_Delete">삭제</v:String>
+    <v:String x:Key="GeneralText_Edit">수정</v:String>
+    <v:String x:Key="GeneralText_Duplicate">복제</v:String>
+    <v:String x:Key="GeneralText_Remove">삭제</v:String>
+    <v:String x:Key="GeneralText_Cancel">취소</v:String>
+    <v:String x:Key="GeneralText_Update">업데이트</v:String>
+    <v:String x:Key="GeneralText_Add">추가</v:String>
+    <v:String x:Key="GeneralText_Save">저장</v:String>
+    <v:String x:Key="GeneralText_Refresh">새로고침</v:String>
+    <v:String x:Key="GeneralText_Backup">백업</v:String>
+    <v:String x:Key="GeneralText_Versions">버전</v:String>
+    <v:String x:Key="GeneralText_Browse">탐색</v:String>
+    <v:String x:Key="GeneralText_Reset">초기화</v:String>
+    <v:String x:Key="GeneralText_Yes">네</v:String>
+    <v:String x:Key="GeneralText_No">아니오</v:String>
+    <v:String x:Key="GeneralText_Releases">정식</v:String>
+    <v:String x:Key="GeneralText_Betas">베타</v:String>
+    <v:String x:Key="GeneralText_Export">내보내기</v:String>
+    <v:String x:Key="GeneralText_Repair">복원</v:String>
 
-    <v:String x:Key="GeneralText_Twitter"></v:String>
-    <v:String x:Key="GeneralText_GitHub"></v:String>
-    <v:String x:Key="GeneralText_Website"></v:String>
+    <v:String x:Key="GeneralText_Twitter">트위터</v:String>
+    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
+    <v:String x:Key="GeneralText_Website">웹사이트</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
-    <v:String x:Key="GeneralSubtitles_Browse"></v:String>
-    <v:String x:Key="GeneralSubtitles_Reset"></v:String>
-    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
-    <v:String x:Key="GeneralSubtitles_Search"></v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">버전</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">탐색</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">초기화</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">카테고리</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">검색</v:String>
 
     <!--#endregion-->
 
