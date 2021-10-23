@@ -2,114 +2,114 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">English - United States</v:String>
+    <v:String x:Key="LanguageString">Polski - Polska</v:String>
 
     <!--#endregion-->
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_Title">Konfigurator instalacji Minecraft Bedrock Launcher</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">Wstecz</v:String>
+    <v:String x:Key="Installer_Next_Text">Dalej</v:String>
+    <v:String x:Key="Installer_Install_Text">Instaluj</v:String>
+    <v:String x:Key="Installer_Cancel_Text">Anuluj</v:String>
+    <v:String x:Key="Installer_Finish_Text">Gotowe</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Witaj w konfiguratorze instalacji Minecraft Bedrock Launcher</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">Ten program zainstaluje Minecraft Bedrock Launcher na Twoim komputerze.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">Zalecane jest zamknięcie wszystkich pozostałych programów przez kontynuowaniem.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Naciśnij Dalej, aby kontynuować lub Anuluj, aby zamknąć Konfigurator.</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">Umowa licencyjna</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">umowy przez kontynuowaniem instalacji.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Akceptuję umowę.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Nie akceptuję umowy.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Choose Install Type</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
+    <v:String x:Key="Installer_InstallType_Title">Wybierz typ instalacji</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">Wybierz wersję launchera, która chcesz pobrać</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta Version</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Release Version</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Wersja Beta</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Oficjalne wydanie</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">Najbardziej stabilna wersja launchera bez najnowszych funkcji</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">Najnowsza wersja launchera mogąca posiadać błędy</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choose Install Location</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">Wybierz lokalizację instalacji</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">Konfigurator zainstaluje Minecraft Bedrock Launcher w następującym folderze. Aby zainstalować w innym folderze,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">naciśnij Przeglądaj i wybierz inny folder.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Destination Folder</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">BROWSE</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Folder docelowy</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">PRZEGLĄDAJ</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Create a desktop icon</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Add to Start menu</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Utwórz skrót na pulpicie</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Dodaj skrót do menu start</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Zarejestruj program</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Uruchom program</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Niektóre pliki są obecnie używane przez:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">Instalowanie</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Proszę czekać, aż konfigurator zainstaluje Minecraft Bedrock Launcher na Twoim komputerze.</v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Unable to Move File</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Try Again?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">An error has occurred.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Nie można przenieść katalogu</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Nie można przenieść pliku</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">Plik jest w użyciu</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Spróbować ponownie?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Wystąpił błąd.</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Downloading...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizing...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Initializing...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">Pobieranie...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">Kończenie...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">Inicjalizacja...</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Delete</v:String>
-    <v:String x:Key="GeneralText_Edit">Edit</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
-    <v:String x:Key="GeneralText_Remove">Remove</v:String>
-    <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
-    <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
-    <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
-    <v:String x:Key="GeneralText_Browse">Browse</v:String>
-    <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
-    <v:String x:Key="GeneralText_Releases">Releases</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
-    <v:String x:Key="GeneralText_Export">Export</v:String>
-    <v:String x:Key="GeneralText_Repair">Repair</v:String>
+    <v:String x:Key="GeneralText_Delete">Usuń</v:String>
+    <v:String x:Key="GeneralText_Edit">Edytuj</v:String>
+    <v:String x:Key="GeneralText_Duplicate">Duplikuj</v:String>
+    <v:String x:Key="GeneralText_Remove">Usuń</v:String>
+    <v:String x:Key="GeneralText_Cancel">Anuluj</v:String>
+    <v:String x:Key="GeneralText_Update">Aktualizuj</v:String>
+    <v:String x:Key="GeneralText_Add">Dodaj</v:String>
+    <v:String x:Key="GeneralText_Save">Zapisz</v:String>
+    <v:String x:Key="GeneralText_Refresh">Odśwież</v:String>
+    <v:String x:Key="GeneralText_Backup">Utwórz kopię</v:String>
+    <v:String x:Key="GeneralText_Versions">Wersje</v:String>
+    <v:String x:Key="GeneralText_Browse">Przeglądaj</v:String>
+    <v:String x:Key="GeneralText_Reset">Wyzeruj</v:String>
+    <v:String x:Key="GeneralText_Yes">Tak</v:String>
+    <v:String x:Key="GeneralText_No">Nie</v:String>
+    <v:String x:Key="GeneralText_Releases">Wydania</v:String>
+    <v:String x:Key="GeneralText_Betas">Beta</v:String>
+    <v:String x:Key="GeneralText_Export">Eksportuj</v:String>
+    <v:String x:Key="GeneralText_Repair">Napraw</v:String>
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Website">Witryna</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">WERSJE</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">PRZEGLĄDAJ</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">WYZERUJ</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">KATEGORIE</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">SZUKAJ</v:String>
 
     <!--#endregion-->
 
