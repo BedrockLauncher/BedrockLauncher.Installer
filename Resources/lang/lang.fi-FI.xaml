@@ -38,8 +38,8 @@
     <v:String x:Key="Installer_InstallType_BetaInfo">Käynnistimen viimeisin versio, mutta ei paljoa testattu</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Valitse asennussijainti</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text"></v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Kohdekansio</v:String>
     <v:String x:Key="Installer_InstallLocation_Browse_Text">SELAA</v:String>
@@ -48,12 +48,12 @@
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Lisää käynnistysvalikkoon</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Rekisteröi ohjelma</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Asennetaan</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
 
 
     <!--#endregion-->
@@ -62,7 +62,7 @@
 
     <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Hakemistoa ei voi siirtää</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Tiedostoa ei voi siirtää</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text"></v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">Yritä uudelleen?</v:String>
     <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Tapahtui virhe.</v:String>
 
@@ -80,7 +80,7 @@
 
     <v:String x:Key="GeneralText_Delete">Poista</v:String>
     <v:String x:Key="GeneralText_Edit">Muokkaa</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
+    <v:String x:Key="GeneralText_Duplicate"></v:String>
     <v:String x:Key="GeneralText_Remove">Poista</v:String>
     <v:String x:Key="GeneralText_Cancel">Peruuta</v:String>
     <v:String x:Key="GeneralText_Update">Päivitä</v:String>
@@ -110,7 +110,7 @@
     <v:String x:Key="GeneralSubtitles_Browse">SELAA</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">NOLLAA</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">KATEGORIAT</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Search"></v:String>
 
     <!--#endregion-->
 
