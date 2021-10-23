@@ -8,7 +8,7 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher 安装向导</v:String>
+    <v:String x:Key="Installer_Title">Minecraft 基岩版启动器安装向导</v:String>
 
     <v:String x:Key="Installer_Back_Text">返回</v:String>
     <v:String x:Key="Installer_Next_Text">下一步</v:String>
@@ -16,13 +16,13 @@
     <v:String x:Key="Installer_Cancel_Text">取消</v:String>
     <v:String x:Key="Installer_Finish_Text">完成</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">欢迎使用 Minecraft Bedrock Launcher 设置向导</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">这将在您的电脑上安装Minecraft Bedrock Launcher 启动器。</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">欢迎使用 Minecraft 基岩版启动器设置向导</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">这将在您的电脑上安装 Minecraft 基岩版启动器。</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">建议您在继续之前关闭所有其他应用程序。</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">单击“下一步”继续，或单击“取消”退出安装程序。</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">授权许可协议</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">请阅读以下许可协议。你必须接受此条款。</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">在继续安装前达成协议。</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">我接受该许可。</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">我不接受该许可。</v:String>
@@ -30,14 +30,14 @@
     <v:String x:Key="Installer_InstallType_Title">选择安装类型</v:String>
     <v:String x:Key="Installer_InstallType_Info_Text">选择要下载的启动器的版本</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">测试版本</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta版本</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">发行版本</v:String>
 
     <v:String x:Key="Installer_InstallType_ReleaseInfo">最稳定的启动器版本，但不是最新的</v:String>
     <v:String x:Key="Installer_InstallType_BetaInfo">最新版本的启动器，但未经测试</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">选择安装位置</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">安装程序将在下面的文件夹中安装 Minecraft Bedrock Launcher。若要在另一个文件夹中安装，</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">安装程序将在下面的文件夹中安装 Minecraft 基岩版启动器。若要在另一个文件夹中安装，</v:String>
     <v:String x:Key="Installer_InstallLocation_Info2_Text">点击浏览并选择其他文件夹。</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">目标文件夹</v:String>
@@ -52,14 +52,14 @@
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">以下文件目前正在使用：</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">安装中</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">请稍候，正在您的电脑上安装Minecraft Bedrock Launcher。</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">请稍候，正在您的电脑上安装 Minecraft 基岩版启动器。</v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">无法创建目录</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">无法移动目录</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">无法移动文件</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">文件正在使用</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">重试？</v:String>
@@ -69,9 +69,9 @@
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">正在下载...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">正在完成安装......</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">正在初始化...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">下载中...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">完成安装中......</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">初始化中...</v:String>
 
     <!--#endregion-->
 
