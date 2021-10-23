@@ -8,7 +8,7 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Guide d'installation Minecraft Bedrock Launcher</v:String>
+    <v:String x:Key="Installer_Title">Guide d'installation du Minecraft Bedrock Launcher</v:String>
 
     <v:String x:Key="Installer_Back_Text">Retour</v:String>
     <v:String x:Key="Installer_Next_Text">Suivant</v:String>
@@ -20,37 +20,37 @@
 du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">Ceci installera Minecraft Bedrock Launcher sur votre ordinateur.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">Il est recommandé de fermer toutes les autres applications avant de poursuivre.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Cliquez sur Suivant pour continuer, ou Annuler pour quitter le Setup.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Cliquez sur Suivant pour continuer, ou Annuler pour quitter l'installation.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Contrat de Licence</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">contrat avant de poursuivre l'installation.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">J'accepte la licence.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Je n'accepte pas la licence.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Choisir le Type d'Installation</v:String>
+    <v:String x:Key="Installer_InstallType_Title">Choisir le type d'installation</v:String>
     <v:String x:Key="Installer_InstallType_Info_Text">Sélectionnez la version du launcher que vous souhaitez télécharger</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Version Bêta</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Version Récente</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Version bêta</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Version récente</v:String>
 
     <v:String x:Key="Installer_InstallType_ReleaseInfo">La version la plus stable du launcher, mais pas la plus à jour</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">La dernière version de ce launcher, mais a des chances de ne pas avoir été testé</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">La dernière version de ce launcher, mais a des chances de ne pas avoir été testée</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choisir un Emplacement d'Installation</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">Choisir l'emplacement d'installation</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">Le Setup va installer le Launcher Minecraft Bedrock dans le dossier suivant. Pour installer dans un dossier différent,</v:String>
     <v:String x:Key="Installer_InstallLocation_Info2_Text">cliquez sur Parcourir et sélectionnez un autre dossier.</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Répertoire de destination</v:String>
     <v:String x:Key="Installer_InstallLocation_Browse_Text">PARCOURIR</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Ajouter un icone sur le bureau</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Ajouter une icône sur le bureau</v:String>
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Ajouter au menu Démarrer</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Enregistrer le programme</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Démarrer le programme à la Sortie</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Démarrer le programme à la sortie</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Certains fichiers sont pour l'instant en cours d'utilisation par:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Certains fichiers sont pour l'instant en cours d'utilisation par :</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Installation</v:String>
     <v:String x:Key="Installer_InstallationProgress_Info_Text">Veuillez patienter pendant que le Setup installe Minecraft Bedrock Launcher sur votre ordinateur.</v:String>
@@ -61,9 +61,9 @@ du Minecraft Bedrock Launcher</v:String>
     <!--#region Dialog -->
 
     <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Echec au déplacement du répertoire</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Impossible d'Enregistrer le Fichier</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Impossible d'enregistrer le fichier</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">Fichier en cours d'utilisation</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Réessayer?</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Réessayer ?</v:String>
     <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Une erreur est survenue.</v:String>
 
     <!--#endregion-->
@@ -79,7 +79,7 @@ du Minecraft Bedrock Launcher</v:String>
     <!--#region GeneralText -->
 
     <v:String x:Key="GeneralText_Delete">Supprimer</v:String>
-    <v:String x:Key="GeneralText_Edit">Editer</v:String>
+    <v:String x:Key="GeneralText_Edit">Modifier</v:String>
     <v:String x:Key="GeneralText_Duplicate">Dupliquer</v:String>
     <v:String x:Key="GeneralText_Remove">Retirer</v:String>
     <v:String x:Key="GeneralText_Cancel">Annuler</v:String>
@@ -87,10 +87,10 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Add">Ajouter</v:String>
     <v:String x:Key="GeneralText_Save">Enregistrer</v:String>
     <v:String x:Key="GeneralText_Refresh">Actualiser</v:String>
-    <v:String x:Key="GeneralText_Backup">Sauvegarde</v:String>
+    <v:String x:Key="GeneralText_Backup">Sauvegarder</v:String>
     <v:String x:Key="GeneralText_Versions">Versions</v:String>
     <v:String x:Key="GeneralText_Browse">Parcourir</v:String>
-    <v:String x:Key="GeneralText_Reset">Reset</v:String>
+    <v:String x:Key="GeneralText_Reset">Réinitialiser</v:String>
     <v:String x:Key="GeneralText_Yes">Oui</v:String>
     <v:String x:Key="GeneralText_No">Non</v:String>
     <v:String x:Key="GeneralText_Releases">Versions</v:String>
@@ -108,7 +108,7 @@ du Minecraft Bedrock Launcher</v:String>
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">PARCOURIR</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">RÉINITIALISER</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">CATÉGORIES</v:String>
     <v:String x:Key="GeneralSubtitles_Search">RECHERCHER</v:String>
 
