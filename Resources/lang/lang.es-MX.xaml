@@ -18,12 +18,12 @@
 
     <v:String x:Key="Installer_WelcomePage_Title">Bienvenido al instalador de Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">Esto instalará Minecraft Bedrock Launcher en tu computadora.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">Es recomendado cerrar otras aplicaciones antes de continuar.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">Se recomienda cerrar otras aplicaciones antes de continuar.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Presiona Siguiente para continuar, o Cancelar para salir.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Acuerdo de Licencia</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">acuerdo antes de continuar con la instalación.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Por favor, lea el siguiente Acuerdo de Licencia.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">debes aceptar el acuerdo antes de continuar con la instalación.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Acepto la licencia.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">No acepto la licencia.</v:String>
 
@@ -31,7 +31,7 @@
     <v:String x:Key="Installer_InstallType_Info_Text">Elige la versión del Launcher que quieres descargar</v:String>
 
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Versión beta</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versión release</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versión de Lanzamiento</v:String>
 
     <v:String x:Key="Installer_InstallType_ReleaseInfo">La versión más estable del launcher, pero no la más reciente</v:String>
     <v:String x:Key="Installer_InstallType_BetaInfo">La ultima versión del launcher, pero sin ser probada</v:String>
@@ -59,11 +59,11 @@
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">No disponible para mover directorio</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">No disponible para mover el directorio</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">No disponible para mover el archivo</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">Archivo en uso</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Reintentar?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Un error ocurrió.</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">¿Reintentar?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Ha ocurrido un error.</v:String>
 
     <!--#endregion-->
 
