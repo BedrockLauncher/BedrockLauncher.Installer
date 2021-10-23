@@ -2,7 +2,7 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">English - United States</v:String>
+    <v:String x:Key="LanguageString">Pirate English - Tortuga</v:String>
 
     <!--#endregion-->
 
@@ -10,7 +10,7 @@
 
     <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
+    <v:String x:Key="Installer_Back_Text">Round Back Whence Ye Came</v:String>
     <v:String x:Key="Installer_Next_Text">Next</v:String>
     <v:String x:Key="Installer_Install_Text">Install</v:String>
     <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
