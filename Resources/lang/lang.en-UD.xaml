@@ -2,114 +2,114 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">sǝʇɐʇS pǝʇᴉu∩ - ɥsᴉlƃuƎ</v:String>
+    <v:String x:Key="LanguageString">uʍoᗡ ǝpᴉsd∩ - ɥsᴉꞁᵷuƎ</v:String>
 
     <!--#endregion-->
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">pɹɐzᴉM dnʇǝS ɹǝɥɔunɐ˥ ʞɔoɹpǝq ʇɟɐɹɔǝuᴉW</v:String>
+    <v:String x:Key="Installer_Title">pɹɐzᴉM dnʇǝS ɹǝɥɔunɐꞀ ʞɔoɹpǝᗺ ʇɟɐɹɔǝuᴉW</v:String>
 
-    <v:String x:Key="Installer_Back_Text">ʞɔɐq</v:String>
+    <v:String x:Key="Installer_Back_Text">ʞɔɐᗺ</v:String>
     <v:String x:Key="Installer_Next_Text">ʇxǝN</v:String>
     <v:String x:Key="Installer_Install_Text">llɐʇsuI</v:String>
     <v:String x:Key="Installer_Cancel_Text">lǝɔuɐƆ</v:String>
     <v:String x:Key="Installer_Finish_Text">ɥsᴉuᴉℲ</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">pɹɐzᴉM dnʇǝS ɹǝɥɔunɐ˥ ʞɔoɹpǝq ʇɟɐɹɔǝuᴉW ǝɥʇ oʇ ǝɯoɔlǝM</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">˙ɹǝʇndɯoɔ ɹnoʎ uo ɹǝɥɔunɐ˥ ʞɔoɹpǝq ʇɟɐɹɔǝuᴉW llɐʇsuᴉ llᴉʍ sᴉɥ┴</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">˙ƃuᴉnuᴉʇuoɔ ǝɹoɟǝq suoᴉʇɐɔᴉlddɐ ɹǝɥʇo llɐ ǝsolɔ noʎ ʇɐɥʇ pǝpuǝɯɯoɔǝɹ sᴉ ʇI</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">˙dnʇǝS ʇᴉxǝ oʇ lǝɔuɐƆ ɹo 'ǝnuᴉʇuoɔ oʇ ʇxǝN ʞɔᴉlƆ</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">pɹɐzᴉM dnʇǝS ɹǝɥɔunɐꞀ ʞɔoɹpǝᗺ ʇɟɐɹɔǝuᴉW ǝɥʇ oʇ ǝɯoɔꞁǝM</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">˙ɹǝʇndɯoɔ ɹnoʎ uo ɹǝɥɔunɐꞀ ʞɔoɹpǝᗺ ʇɟɐɹɔǝuᴉW ꞁꞁɐʇsuᴉ ꞁꞁᴉʍ sᴉɥ⟘</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">˙ᵷuᴉnuᴉʇuoɔ ǝɹoɟǝq suoᴉʇɐɔᴉꞁddɐ ɹǝɥʇo ꞁꞁɐ ǝsoꞁɔ noʎ ʇɐɥʇ pǝpuǝɯɯoɔǝɹ sᴉ ʇI</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">˙dnʇǝS ʇᴉxǝ oʇ ꞁǝɔuɐƆ ɹo 'ǝnuᴉʇuoɔ oʇ ʇxǝN ʞɔᴉꞁƆ</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">ʇuǝɯǝǝɹƃ∀ ǝsuǝɔᴉ˥</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">ʇuǝɯǝǝɹᵷⱯ ǝsuǝɔᴉꞀ</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">˙sᴉɥʇ ɟo sɯɹǝʇ ǝɥʇ ʇdǝɔɔɐ ʇsnɯ no⅄ ˙ʇuǝɯǝǝɹᵷⱯ ǝsuǝɔᴉꞀ ᵷuᴉʍoꞁꞁoɟ ǝɥʇ pɐǝɹ ǝsɐǝꞁԀ</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">˙uoᴉʇɐꞁꞁɐʇsuᴉ ǝɥʇ ɥʇᴉʍ ᵷuᴉnuᴉʇuoɔ ǝɹoɟǝq ʇuǝɯǝǝɹᵷɐ</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">˙ǝsuǝɔᴉꞁ ǝɥʇ ʇdǝɔɔɐ I</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">˙ǝsuǝɔᴉꞁ ǝɥʇ ʇdǝɔɔɐ ʇ,uop I</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title"></v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_Title">ǝdʎ⟘ ꞁꞁɐʇsuI ǝsooɥƆ</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">pɐoꞁuʍop oʇ ʇuɐʍ noʎ ɹǝɥɔunɐꞁ ǝɥʇ ɟo uoᴉsɹǝʌ ɥɔᴉɥʍ ʇɔǝꞁǝS</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text"></v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">uoᴉsɹǝɅ ɐʇǝᗺ</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">uoᴉsɹǝɅ ǝsɐǝꞁǝᴚ</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo"></v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo"></v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">ǝʇɐp oʇ dn ʇsoɯ ǝɥʇ ʇou ʇnq 'ɹǝɥɔunɐꞁ ǝɥʇ ɟo uoᴉsɹǝʌ ǝꞁqɐʇs ʇsoɯ ǝɥ⟘</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">pǝʇsǝʇun ǝq oʇ punoq ʇnq 'ɹǝɥɔunɐꞁ ǝɥʇ ɟo uoᴉsɹǝʌ ʇsǝʇɐꞁ ǝɥ⟘</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">uoᴉʇɐɔoꞀ ꞁꞁɐʇsuI ǝsooɥƆ</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">'ɹǝpꞁoɟ ʇuǝɹǝɟɟᴉp ɐ uᴉ ꞁꞁɐʇsuᴉ o⟘ ˙ɹǝpꞁoɟ ᵷuᴉʍoꞁꞁoɟ ǝɥʇ uᴉ ɹǝɥɔunɐꞀ ʞɔoɹpǝᗺ ʇɟɐɹɔǝuᴉW ꞁꞁɐʇsuᴉ ꞁꞁᴉʍ dnʇǝS</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">˙ɹǝpꞁoɟ ɹǝɥʇouɐ ʇɔǝꞁǝs puɐ ǝsʍoɹᗺ ʞɔᴉꞁɔ</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">ɹǝpꞁoℲ uoᴉʇɐuᴉʇsǝᗡ</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">ƎSMOᴚᗺ</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">uoɔᴉ doʇʞsǝp ɐ ǝʇɐǝɹƆ</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">nuǝɯ ʇɹɐʇS oʇ ppⱯ</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">ɯɐɹᵷoɹԀ ɹǝʇsᴉᵷǝᴚ</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">ʇᴉxƎ uo ɯɐɹᵷoɹԀ ʇɹɐʇS</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">:ᵷuᴉʍoꞁꞁoɟ ǝɥʇ ʎq ǝsn uᴉ ʎꞁʇuǝɹɹnɔ ǝɹɐ sǝꞁᴉɟ ǝɥʇ ɟo ǝɯoS</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title"></v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">ᵷuᴉꞁꞁɐʇsuI</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">˙ɹǝʇndɯoɔ ɹnoʎ uo ɹǝɥɔunɐꞀ ʞɔoɹpǝᗺ ʇɟɐɹɔǝuᴉW sꞁꞁɐʇsuᴉ dnʇǝS ǝꞁᴉɥʍ ʇᴉɐʍ ǝsɐǝꞁԀ</v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">ʎɹoʇɔǝɹᴉᗡ ǝʌoW oʇ ǝꞁqɐu∩</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">ǝꞁᴉℲ ǝʌoW oʇ ǝꞁqɐu∩</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">pǝs∩ ᵷuᴉǝᗺ ǝꞁᴉℲ</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">¿uᴉɐᵷⱯ ʎɹ⟘</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">˙pǝɹɹnɔɔo sɐɥ ɹoɹɹǝ uⱯ</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading"></v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing"></v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">˙˙˙ᵷuᴉpɐoꞁuʍoᗡ</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">˙˙˙ᵷuᴉzᴉꞁɐuᴉℲ</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">˙˙˙ᵷuᴉzᴉꞁɐᴉʇᴉuI</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete"></v:String>
-    <v:String x:Key="GeneralText_Edit"></v:String>
-    <v:String x:Key="GeneralText_Duplicate"></v:String>
-    <v:String x:Key="GeneralText_Remove"></v:String>
-    <v:String x:Key="GeneralText_Cancel"></v:String>
-    <v:String x:Key="GeneralText_Update">pǝʇɐpd∩</v:String>
-    <v:String x:Key="GeneralText_Add"></v:String>
+    <v:String x:Key="GeneralText_Delete">ǝʇǝꞁǝᗡ</v:String>
+    <v:String x:Key="GeneralText_Edit">ʇᴉpƎ</v:String>
+    <v:String x:Key="GeneralText_Duplicate">ǝʇɐɔᴉꞁdnᗡ</v:String>
+    <v:String x:Key="GeneralText_Remove">ǝʌoɯǝᴚ</v:String>
+    <v:String x:Key="GeneralText_Cancel">ꞁǝɔuɐƆ</v:String>
+    <v:String x:Key="GeneralText_Update">ǝʇɐpd∩</v:String>
+    <v:String x:Key="GeneralText_Add">ppⱯ</v:String>
     <v:String x:Key="GeneralText_Save">ǝʌɐS</v:String>
-    <v:String x:Key="GeneralText_Refresh"></v:String>
-    <v:String x:Key="GeneralText_Backup"></v:String>
-    <v:String x:Key="GeneralText_Versions"></v:String>
-    <v:String x:Key="GeneralText_Browse"></v:String>
-    <v:String x:Key="GeneralText_Reset"></v:String>
-    <v:String x:Key="GeneralText_Yes"></v:String>
-    <v:String x:Key="GeneralText_No"></v:String>
-    <v:String x:Key="GeneralText_Releases"></v:String>
-    <v:String x:Key="GeneralText_Betas"></v:String>
-    <v:String x:Key="GeneralText_Export"></v:String>
-    <v:String x:Key="GeneralText_Repair"></v:String>
+    <v:String x:Key="GeneralText_Refresh">ɥsǝɹɟǝᴚ</v:String>
+    <v:String x:Key="GeneralText_Backup">dnʞɔɐᗺ</v:String>
+    <v:String x:Key="GeneralText_Versions">suoᴉsɹǝɅ</v:String>
+    <v:String x:Key="GeneralText_Browse">ǝsʍoɹᗺ</v:String>
+    <v:String x:Key="GeneralText_Reset">ʇǝsǝᴚ</v:String>
+    <v:String x:Key="GeneralText_Yes">sǝ⅄</v:String>
+    <v:String x:Key="GeneralText_No">oN</v:String>
+    <v:String x:Key="GeneralText_Releases">sǝsɐǝꞁǝᴚ</v:String>
+    <v:String x:Key="GeneralText_Betas">sɐʇǝᗺ</v:String>
+    <v:String x:Key="GeneralText_Export">ʇɹodxƎ</v:String>
+    <v:String x:Key="GeneralText_Repair">ɹᴉɐdǝᴚ</v:String>
 
-    <v:String x:Key="GeneralText_Twitter"></v:String>
-    <v:String x:Key="GeneralText_GitHub"></v:String>
-    <v:String x:Key="GeneralText_Website"></v:String>
+    <v:String x:Key="GeneralText_Twitter">ɹǝʇʇᴉʍ⟘</v:String>
+    <v:String x:Key="GeneralText_GitHub">qnHʇᴉ⅁</v:String>
+    <v:String x:Key="GeneralText_Website">ǝʇᴉsqǝM</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">ƎSMOɹq</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">┴ƎSƎɹ</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">SƎIɹOפƎ┴∀Ɔ</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">HƆɹ∀ƎS</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">SNOISᴚƎɅ</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">ƎSMOᴚᗺ</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">⟘ƎSƎᴚ</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">SƎIᴚO⅁Ǝ⟘ⱯƆ</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">HƆᴚⱯƎS</v:String>
 
     <!--#endregion-->
 
