@@ -22,7 +22,7 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
@@ -90,8 +90,8 @@
     <v:String x:Key="GeneralText_Versions">Versions</v:String>
     <v:String x:Key="GeneralText_Browse">Browse</v:String>
     <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
+    <v:String x:Key="GeneralText_Yes">Ja</v:String>
+    <v:String x:Key="GeneralText_No">Nein</v:String>
     <v:String x:Key="GeneralText_Releases">Releases</v:String>
     <v:String x:Key="GeneralText_Betas">Betas</v:String>
     <v:String x:Key="GeneralText_Export">Export</v:String>
