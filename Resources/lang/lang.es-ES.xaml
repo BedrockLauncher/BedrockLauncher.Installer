@@ -2,13 +2,13 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString"></v:String>
+    <v:String x:Key="LanguageString">Inglés - Estados Unidos</v:String>
 
     <!--#endregion-->
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title"></v:String>
+    <v:String x:Key="Installer_Title">Instalador de Minecraft Bedrock Launcher</v:String>
 
     <v:String x:Key="Installer_Back_Text">Atrás</v:String>
     <v:String x:Key="Installer_Next_Text">Siguiente</v:String>
@@ -34,18 +34,18 @@
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Versión estable</v:String>
 
     <v:String x:Key="Installer_InstallType_ReleaseInfo">La versión más estable del launcher, pero no la más actualizada</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo"></v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">La última versión del lanzador, pero no está testeada</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Elige la ruta de instalación</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">El asistente instalará el Launcher de Minecraft Bedrock en la siguiente carpeta. Para instalar en una carpeta diferente,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">da click en buscar y selecciona una ruta distinta.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">da clic en navegar y selecciona una ruta distinta.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">BUSCAR</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Carpeta de destino</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">NAVEGAR</v:String>
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Crear un icono en el escritorio</v:String>
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Añadir al menú de inicio</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Registrar programa</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Iniciar programa al finalizar</v:String>
 
@@ -59,7 +59,7 @@
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">No es posible moverlo al escritorio</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">No es posible mover el archivo</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">El archivo está en uso</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">¿Intentar de nuevo?</v:String>
@@ -85,31 +85,31 @@
     <v:String x:Key="GeneralText_Update">Actualizar</v:String>
     <v:String x:Key="GeneralText_Add">Añadir</v:String>
     <v:String x:Key="GeneralText_Save">Guardar</v:String>
-    <v:String x:Key="GeneralText_Refresh"></v:String>
-    <v:String x:Key="GeneralText_Backup"></v:String>
-    <v:String x:Key="GeneralText_Versions"></v:String>
-    <v:String x:Key="GeneralText_Browse"></v:String>
-    <v:String x:Key="GeneralText_Reset"></v:String>
-    <v:String x:Key="GeneralText_Yes"></v:String>
-    <v:String x:Key="GeneralText_No"></v:String>
-    <v:String x:Key="GeneralText_Releases"></v:String>
-    <v:String x:Key="GeneralText_Betas"></v:String>
-    <v:String x:Key="GeneralText_Export"></v:String>
-    <v:String x:Key="GeneralText_Repair"></v:String>
+    <v:String x:Key="GeneralText_Refresh">Actualizar</v:String>
+    <v:String x:Key="GeneralText_Backup">Respaldar</v:String>
+    <v:String x:Key="GeneralText_Versions">Versiones</v:String>
+    <v:String x:Key="GeneralText_Browse">Navegar</v:String>
+    <v:String x:Key="GeneralText_Reset">Reiniciar</v:String>
+    <v:String x:Key="GeneralText_Yes">Si</v:String>
+    <v:String x:Key="GeneralText_No">No</v:String>
+    <v:String x:Key="GeneralText_Releases">Lanzamientos</v:String>
+    <v:String x:Key="GeneralText_Betas">Betas</v:String>
+    <v:String x:Key="GeneralText_Export">Exportar</v:String>
+    <v:String x:Key="GeneralText_Repair">Reparar</v:String>
 
-    <v:String x:Key="GeneralText_Twitter"></v:String>
-    <v:String x:Key="GeneralText_GitHub"></v:String>
-    <v:String x:Key="GeneralText_Website"></v:String>
+    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
+    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
+    <v:String x:Key="GeneralText_Website">Sitio Web</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
-    <v:String x:Key="GeneralSubtitles_Browse"></v:String>
-    <v:String x:Key="GeneralSubtitles_Reset"></v:String>
-    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
-    <v:String x:Key="GeneralSubtitles_Search"></v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">VERSIONES</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">NAVEGAR</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">REINICIAR</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">CATEGORÍAS</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">BUSCAR</v:String>
 
     <!--#endregion-->
 
