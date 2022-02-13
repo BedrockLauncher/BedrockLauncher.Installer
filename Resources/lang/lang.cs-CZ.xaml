@@ -2,7 +2,7 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">Angličtina - Spojené státy</v:String>
+    <v:String x:Key="LanguageString">Čeština - Česko</v:String>
 
     <!--#endregion-->
 
@@ -82,7 +82,7 @@
     <v:String x:Key="GeneralText_Duplicate">Kopírovat</v:String>
     <v:String x:Key="GeneralText_Remove">Smazat</v:String>
     <v:String x:Key="GeneralText_Cancel">Zrušit</v:String>
-    <v:String x:Key="GeneralText_Update">Aktualizace</v:String>
+    <v:String x:Key="GeneralText_Update">Aktualizovat</v:String>
     <v:String x:Key="GeneralText_Add">Přidat</v:String>
     <v:String x:Key="GeneralText_Save">Uložit</v:String>
     <v:String x:Key="GeneralText_Refresh">Obnovit</v:String>
