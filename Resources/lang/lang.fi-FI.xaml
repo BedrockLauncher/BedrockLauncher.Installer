@@ -22,24 +22,23 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Paina Seuraava jatkaaksesi, tai Peruuta poistuaksesi asentimesta.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Lisenssisopimus</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Luethan seuraavan lisenssisopimuksen. Sinun on hyväksyttävä tämän sopimuksen</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">ehdot ennen asennuksen jatkamista.
-</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Luethan seuraavan lisenssisopimuksen. Sinun on hyväksyttävä tämän.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">sopimuksen ehdot ennen asennuksen jatkamista.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Hyväksyn lisenssin.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">En hyväksy lisenssiä.</v:String>
 
     <v:String x:Key="Installer_InstallType_Title">Valitse asennustyyppi</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Valitse, minkä version käynnistimestä haluat ladata.</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">Valitse, minkä version launcherista haluat ladata</v:String>
 
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Betaversio</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Julkaisuversio</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">Käynnistimen vakain versio, mutta ei ajantasaisin</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">Käynnistimen viimeisin versio, mutta ei paljoa testattu</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">Launcherin vakain versio, mutta ei ajantasaisin</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">Launcherin viimeisin versio, mutta ei paljoa testattu</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Valitse asennussijainti</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">Asennin tulee asentamaan Minecraft Bedrock Launcherin seuraavaan kansioon. Asentaaksesi eri kansioon,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">paina Selaa ja valitse toinen kansio.</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Kohdekansio</v:String>
     <v:String x:Key="Installer_InstallLocation_Browse_Text">SELAA</v:String>
@@ -48,12 +47,12 @@
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Lisää käynnistysvalikkoon</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Rekisteröi ohjelma</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Käynnistä ohjelma poistuessa</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Jotkin tiedostoista ovat tällä hetkellä seuraavan käytössä:</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Asennetaan</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Odotathan hetken, kun asennin asentaa Minecraft Bedrock Launcheria tietokoneellesi.</v:String>
 
 
     <!--#endregion-->
@@ -62,7 +61,7 @@
 
     <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Hakemistoa ei voi siirtää</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Tiedostoa ei voi siirtää</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">Tiedosto on käytössä</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">Yritä uudelleen?</v:String>
     <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Tapahtui virhe.</v:String>
 
@@ -80,7 +79,7 @@
 
     <v:String x:Key="GeneralText_Delete">Poista</v:String>
     <v:String x:Key="GeneralText_Edit">Muokkaa</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
+    <v:String x:Key="GeneralText_Duplicate">Kopioi</v:String>
     <v:String x:Key="GeneralText_Remove">Poista</v:String>
     <v:String x:Key="GeneralText_Cancel">Peruuta</v:String>
     <v:String x:Key="GeneralText_Update">Päivitä</v:String>
@@ -110,7 +109,7 @@
     <v:String x:Key="GeneralSubtitles_Browse">SELAA</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">NOLLAA</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">KATEGORIAT</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">HAE</v:String>
 
     <!--#endregion-->
 
