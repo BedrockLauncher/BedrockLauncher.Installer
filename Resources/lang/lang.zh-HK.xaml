@@ -2,7 +2,7 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">English - United States</v:String>
+    <v:String x:Key="LanguageString">繁體中文 - 香港</v:String>
 
     <!--#endregion-->
 
@@ -51,7 +51,7 @@
 
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">正在安裝</v:String>
     <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
 
 
@@ -84,10 +84,10 @@
     <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
     <v:String x:Key="GeneralText_Update">Update</v:String>
     <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
+    <v:String x:Key="GeneralText_Save">儲存</v:String>
     <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
     <v:String x:Key="GeneralText_Backup">Backup</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
+    <v:String x:Key="GeneralText_Versions">版本</v:String>
     <v:String x:Key="GeneralText_Browse">Browse</v:String>
     <v:String x:Key="GeneralText_Reset">Reset</v:String>
     <v:String x:Key="GeneralText_Yes">Yes</v:String>
