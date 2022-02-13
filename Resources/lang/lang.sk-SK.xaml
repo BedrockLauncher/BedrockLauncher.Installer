@@ -2,114 +2,114 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">English - United States</v:String>
+    <v:String x:Key="LanguageString">Slovenčina - Slovensko</v:String>
 
     <!--#endregion-->
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_Title">Sprievodca inštaláciou spúšťača Minecraft Bedrock Edície</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">Späť</v:String>
+    <v:String x:Key="Installer_Next_Text">Ďalej</v:String>
+    <v:String x:Key="Installer_Install_Text">Inštalovať</v:String>
+    <v:String x:Key="Installer_Cancel_Text">Zrušiť</v:String>
+    <v:String x:Key="Installer_Finish_Text">Dokončiť</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Víta ťa sprievodca inštaláciou spúšťača Minecraft Bedrock Edície</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">Toto nainštaluje spúšťač Minecraft Bedrock Edície na váš počítač.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">Je odporúčané vypnúť všetky ostatné aplikácie pred pokračovaním.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Stlač Ďalej pre pokračovanie alebo Zrušiť pre ukončenie.</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">Licenčná zmluva</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Prosím prečítajte si nasledovnú licenčnú zmluvu. Toto musíte odsúhlasiť.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">Zmluva pred pokračovaním s inštaláciou.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Súhlasím s licenciou.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Nesúhlasím s licenciou.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Choose Install Type</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
+    <v:String x:Key="Installer_InstallType_Title">Vyberte si typ inštalácie</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">Vyberte verziu spúšťača, ktorú chcete stiahnuť</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta Version</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Release Version</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Vydanie</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">Najstabilnejšia verzia spúšťača, no nie najnovšia</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">Najnovšia verzia spúšťača, no netestovaná</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choose Install Location</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">Vyberte umiestnenie inštalácie</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">Inštalátor nainštaluje spúšťač Minecraft Bedrock Edície do nasledovného priečinka. Pre výber iného priečinka,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">klikni na Prechádzať a vyberte si iný priečinok.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Destination Folder</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">BROWSE</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Cieľový priečinok</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">PRECHÁDZAŤ</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Create a desktop icon</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Add to Start menu</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Vytvoriť odkaz na plochu</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Pripnúť na Štart</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Zaregistrovať program</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Otvoriť program pri ukončení</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Niektoré súbory sú práve používané týmito procesmi:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">Inštalovanie</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Prosím čakajte kým inštalátor nainštaluje spúšťač Minecraft Bedrock Edíciu.</v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Unable to Move File</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Try Again?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">An error has occurred.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Nie je možné presunúť adresár</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Nie je možné presunúť súbor</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">Súbor je používaný</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Skúsiť znova?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Vyskytla sa chyba.</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Downloading...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizing...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Initializing...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">Sťahovanie...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">Dokončovanie...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">Spúšťanie...</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Delete</v:String>
-    <v:String x:Key="GeneralText_Edit">Edit</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
-    <v:String x:Key="GeneralText_Remove">Remove</v:String>
-    <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
-    <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
-    <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
-    <v:String x:Key="GeneralText_Browse">Browse</v:String>
-    <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
-    <v:String x:Key="GeneralText_Releases">Releases</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
-    <v:String x:Key="GeneralText_Export">Export</v:String>
-    <v:String x:Key="GeneralText_Repair">Repair</v:String>
+    <v:String x:Key="GeneralText_Delete">Vymazať</v:String>
+    <v:String x:Key="GeneralText_Edit">Upraviť</v:String>
+    <v:String x:Key="GeneralText_Duplicate">Duplikovať</v:String>
+    <v:String x:Key="GeneralText_Remove">Odstrániť</v:String>
+    <v:String x:Key="GeneralText_Cancel">Zrušiť</v:String>
+    <v:String x:Key="GeneralText_Update">Aktualizovať</v:String>
+    <v:String x:Key="GeneralText_Add">Pridať</v:String>
+    <v:String x:Key="GeneralText_Save">Uložiť</v:String>
+    <v:String x:Key="GeneralText_Refresh">Obnoviť</v:String>
+    <v:String x:Key="GeneralText_Backup">Zálohovať</v:String>
+    <v:String x:Key="GeneralText_Versions">Verzie</v:String>
+    <v:String x:Key="GeneralText_Browse">Prehliadať</v:String>
+    <v:String x:Key="GeneralText_Reset">Resetovať</v:String>
+    <v:String x:Key="GeneralText_Yes">Áno</v:String>
+    <v:String x:Key="GeneralText_No">Nie</v:String>
+    <v:String x:Key="GeneralText_Releases">Vydania</v:String>
+    <v:String x:Key="GeneralText_Betas">Bety</v:String>
+    <v:String x:Key="GeneralText_Export">Exportovať</v:String>
+    <v:String x:Key="GeneralText_Repair">Opraviť</v:String>
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Website">Webová stránka</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">VERZIE</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">PRECHÁDZAŤ</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">RESETOVAŤ</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">KATEGÓRIE</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">HĽADAŤ</v:String>
 
     <!--#endregion-->
 
