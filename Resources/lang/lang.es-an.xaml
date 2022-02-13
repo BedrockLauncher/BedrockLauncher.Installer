@@ -2,7 +2,7 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
     <!--#region Main Section-->
 
-    <v:String x:Key="LanguageString">English - United States</v:String>
+    <v:String x:Key="LanguageString">Andalûh - Êppañôh</v:String>
 
     <!--#endregion-->
 
@@ -10,11 +10,11 @@
 
     <v:String x:Key="Installer_Title">Bienvenido al instalador de Minecraft Bedrock Launcher</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
+    <v:String x:Key="Installer_Back_Text">Atrâh</v:String>
+    <v:String x:Key="Installer_Next_Text">Çigiente</v:String>
     <v:String x:Key="Installer_Install_Text">Install</v:String>
     <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Finish_Text">Finaliçâh</v:String>
 
     <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
@@ -51,7 +51,7 @@
 
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">Îttalando</v:String>
     <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
 
 
@@ -84,10 +84,10 @@
     <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
     <v:String x:Key="GeneralText_Update">Update</v:String>
     <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
+    <v:String x:Key="GeneralText_Save">Guardâh</v:String>
     <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
     <v:String x:Key="GeneralText_Backup">Backup</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
+    <v:String x:Key="GeneralText_Versions">Berçionê</v:String>
     <v:String x:Key="GeneralText_Browse">Browse</v:String>
     <v:String x:Key="GeneralText_Reset">Reset</v:String>
     <v:String x:Key="GeneralText_Yes">Yes</v:String>
