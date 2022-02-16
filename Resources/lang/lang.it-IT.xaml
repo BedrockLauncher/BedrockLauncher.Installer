@@ -47,7 +47,7 @@
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Aggiungi al menu iniziale</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Avvia il programma alla chiusura</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Alcuni dei file sono attualmente in uso dai seguenti:</v:String>
 
@@ -59,7 +59,7 @@
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Impossibile spostare la cartella di gioco</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Impossibile spostare la cartella</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Impossibile spostare il file</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">File in uso</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">Riprovare?</v:String>
@@ -82,24 +82,24 @@
     <v:String x:Key="GeneralText_Duplicate">Duplica</v:String>
     <v:String x:Key="GeneralText_Remove">Rimuovi</v:String>
     <v:String x:Key="GeneralText_Cancel">Annulla</v:String>
-    <v:String x:Key="GeneralText_Update">Aggiornamento</v:String>
+    <v:String x:Key="GeneralText_Update">Aggiorna</v:String>
     <v:String x:Key="GeneralText_Add">Aggiungi</v:String>
     <v:String x:Key="GeneralText_Save">Salva</v:String>
-    <v:String x:Key="GeneralText_Refresh">Aggiorna</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
+    <v:String x:Key="GeneralText_Refresh">Ricarica</v:String>
+    <v:String x:Key="GeneralText_Backup">Fai un back-up</v:String>
     <v:String x:Key="GeneralText_Versions">Versioni</v:String>
     <v:String x:Key="GeneralText_Browse">Sfoglia</v:String>
     <v:String x:Key="GeneralText_Reset">Ripristina</v:String>
-    <v:String x:Key="GeneralText_Yes">Si</v:String>
+    <v:String x:Key="GeneralText_Yes">Sì</v:String>
     <v:String x:Key="GeneralText_No">No</v:String>
-    <v:String x:Key="GeneralText_Releases">Release</v:String>
+    <v:String x:Key="GeneralText_Releases">Versioni finali</v:String>
     <v:String x:Key="GeneralText_Betas">Beta</v:String>
     <v:String x:Key="GeneralText_Export">Esporta</v:String>
     <v:String x:Key="GeneralText_Repair">Ripara</v:String>
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Sito Web</v:String>
+    <v:String x:Key="GeneralText_Website">Sito web</v:String>
 
     <!--#endregion-->
 
