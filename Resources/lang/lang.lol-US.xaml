@@ -10,22 +10,23 @@
 
     <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Install_Text">Install</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">Beck</v:String>
+    <v:String x:Key="Installer_Next_Text">Nxt</v:String>
+    <v:String x:Key="Installer_Install_Text">Instal</v:String>
+    <v:String x:Key="Installer_Cancel_Text">No instal</v:String>
+    <v:String x:Key="Installer_Finish_Text">Done for</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Wlcom to da Block Game Launcher Setup Wizzard</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">Dis is gonna instal Block Game Launcher in yer cmputr.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recomended to close yer other things before continuing </v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Clik nxt to go on, Cancl to go bak</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Just accept the Terms of Agreement n proceed coz 
+I know your not gonna read the whole thing.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I actually read the licence and don't accept it.</v:String>
 
     <v:String x:Key="Installer_InstallType_Title">Choose Install Type</v:String>
     <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
