@@ -8,7 +8,7 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Trình thiết lập Minecraft Bedrock</v:String>
+    <v:String x:Key="Installer_Title">Trình cài đặt Minecraft Bedrock</v:String>
 
     <v:String x:Key="Installer_Back_Text">Quay lại</v:String>
     <v:String x:Key="Installer_Next_Text">Tiếp</v:String>
@@ -28,88 +28,88 @@
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Tôi không chấp nhận giấy phép.</v:String>
 
     <v:String x:Key="Installer_InstallType_Title">Hãy chọn cách để tải</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">Chọn phiên bản trình khởi chạy bạn muốn tải xuống</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta Version</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Release Version</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Phiên bản beta</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Bản phát hành</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">Phiên bản ổn định nhất của trình khởi chạy nhưng không phải là phiên bản cập nhật nhất</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">Trình khởi chạy phiên bản mới nhất, nhưng chắc chắn chưa được kiểm tra</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choose Install Location</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">Chọn vị trí cài đặt</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">Thiết lập sẽ cài đặt Minecraft Bedrock Launcher trong thư mục sau. Để cài đặt trong một thư mục khác,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">nhấp vào &quot;Duyệt&quot; và chọn một thư mục khác.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Destination Folder</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">BROWSE</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Nơi đến thư mục</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">DUYỆT</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Create a desktop icon</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Add to Start menu</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Tạo biểu tượng trên màn hình</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Thêm vào mục thanh biểu tượng</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Đăng ký chương trình</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Bắt đầu chương trình khi thoát</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Một số tệp hiện đang được sử dụng bởi:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">Đang cài đặt</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Vui lòng đợi trong khi trình cài đặt Minecraft Bedrock đang thực hiện trên máy tính của bạn.</v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Unable to Move File</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">File Being Used</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Try Again?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">An error has occurred.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Không thể di chuyển thư mục</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Không thể di chuyển tệp</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">Tệp đang được sử dụng</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Thử kần nữa?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Có lỗi đã xảy ra.</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Downloading...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizing...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Initializing...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">Đang tải xuống...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">Đang hoàn thiện...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">Đang khởi tạo...</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Delete</v:String>
-    <v:String x:Key="GeneralText_Edit">Edit</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
-    <v:String x:Key="GeneralText_Remove">Remove</v:String>
-    <v:String x:Key="GeneralText_Cancel">Hủy</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
-    <v:String x:Key="GeneralText_Add">Add</v:String>
-    <v:String x:Key="GeneralText_Save">Save</v:String>
-    <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
-    <v:String x:Key="GeneralText_Browse">Browse</v:String>
-    <v:String x:Key="GeneralText_Reset">Reset</v:String>
-    <v:String x:Key="GeneralText_Yes">Yes</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
-    <v:String x:Key="GeneralText_Releases">Releases</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
-    <v:String x:Key="GeneralText_Export">Export</v:String>
-    <v:String x:Key="GeneralText_Repair">Repair</v:String>
+    <v:String x:Key="GeneralText_Delete">Xóa</v:String>
+    <v:String x:Key="GeneralText_Edit">Chỉnh sửa</v:String>
+    <v:String x:Key="GeneralText_Duplicate">Tạo bản sao</v:String>
+    <v:String x:Key="GeneralText_Remove">Loại bỏ</v:String>
+    <v:String x:Key="GeneralText_Cancel">Hủy bỏ</v:String>
+    <v:String x:Key="GeneralText_Update">Cập nhật</v:String>
+    <v:String x:Key="GeneralText_Add">Thêm</v:String>
+    <v:String x:Key="GeneralText_Save">Lưu</v:String>
+    <v:String x:Key="GeneralText_Refresh">Làm mới</v:String>
+    <v:String x:Key="GeneralText_Backup">Sao lưu</v:String>
+    <v:String x:Key="GeneralText_Versions">Phiên bản</v:String>
+    <v:String x:Key="GeneralText_Browse">Trình duyệt</v:String>
+    <v:String x:Key="GeneralText_Reset">Cài lại</v:String>
+    <v:String x:Key="GeneralText_Yes">Có</v:String>
+    <v:String x:Key="GeneralText_No">Không</v:String>
+    <v:String x:Key="GeneralText_Releases">Bản phát hành</v:String>
+    <v:String x:Key="GeneralText_Betas">Bản Beta</v:String>
+    <v:String x:Key="GeneralText_Export">Xuất tệp</v:String>
+    <v:String x:Key="GeneralText_Repair">Sửa chữa</v:String>
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Website</v:String>
+    <v:String x:Key="GeneralText_Website">Trang wed</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">BROWSE</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">CATEGORIES</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">SEARCH</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">PHIÊN BẢN</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">DUYỆT</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">Cài đặt lại</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">THỂ LOẠI</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">TÌM KIẾM</v:String>
 
     <!--#endregion-->
 
