@@ -107,7 +107,7 @@
 
     <v:String x:Key="GeneralSubtitles_Versions">PHIÊN BẢN</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">DUYỆT</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">Cài đặt lại</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">THIẾT LẬP LẠI</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">THỂ LOẠI</v:String>
     <v:String x:Key="GeneralSubtitles_Search">TÌM KIẾM</v:String>
 
