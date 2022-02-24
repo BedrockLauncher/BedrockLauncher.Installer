@@ -13,7 +13,7 @@
     <v:String x:Key="Installer_Back_Text">Quay lại</v:String>
     <v:String x:Key="Installer_Next_Text">Tiếp</v:String>
     <v:String x:Key="Installer_Install_Text">Cài đặt</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Hủy</v:String>
+    <v:String x:Key="Installer_Cancel_Text">Hủy bỏ</v:String>
     <v:String x:Key="Installer_Finish_Text">Hoàn tất</v:String>
 
     <v:String x:Key="Installer_WelcomePage_Title">Chào mừng đến với phần mềm cài đặt bản Minecraft Bedrock</v:String>
