@@ -82,7 +82,7 @@
     <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
     <v:String x:Key="GeneralText_Remove">Remove</v:String>
     <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
+    <v:String x:Key="GeneralText_Update">Opdateer</v:String>
     <v:String x:Key="GeneralText_Add">Add</v:String>
     <v:String x:Key="GeneralText_Save">Save</v:String>
     <v:String x:Key="GeneralText_Refresh">Refresh</v:String>
