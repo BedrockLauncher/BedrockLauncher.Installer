@@ -44,7 +44,7 @@
     <v:String x:Key="Installer_InstallLocation_Browse_Text">DUYỆT</v:String>
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Tạo biểu tượng trên màn hình</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Thêm vào thanh bắt đầu</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Thêm vào Start Menu</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Đăng ký chương trình</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Bắt đầu chương trình khi thoát</v:String>
@@ -62,7 +62,7 @@
     <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Không thể di chuyển thư mục</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Không thể di chuyển tệp</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">Tệp đang được sử dụng</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Thử kần nữa?</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Thử lần nữa?</v:String>
     <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Có lỗi đã xảy ra.</v:String>
 
     <!--#endregion-->
@@ -88,8 +88,8 @@
     <v:String x:Key="GeneralText_Refresh">Làm mới</v:String>
     <v:String x:Key="GeneralText_Backup">Sao lưu</v:String>
     <v:String x:Key="GeneralText_Versions">Phiên bản</v:String>
-    <v:String x:Key="GeneralText_Browse">Trình duyệt</v:String>
-    <v:String x:Key="GeneralText_Reset">Cài lại</v:String>
+    <v:String x:Key="GeneralText_Browse">Duyệt</v:String>
+    <v:String x:Key="GeneralText_Reset">Thiết lập lại</v:String>
     <v:String x:Key="GeneralText_Yes">Có</v:String>
     <v:String x:Key="GeneralText_No">Không</v:String>
     <v:String x:Key="GeneralText_Releases">Bản phát hành</v:String>
@@ -99,7 +99,7 @@
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Trang wed</v:String>
+    <v:String x:Key="GeneralText_Website">Trang mạng</v:String>
 
     <!--#endregion-->
 
