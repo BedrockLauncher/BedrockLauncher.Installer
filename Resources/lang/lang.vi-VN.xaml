@@ -19,18 +19,18 @@
     <v:String x:Key="Installer_WelcomePage_Title">Chào mừng đến với phần mềm cài đặt bản Minecraft Bedrock</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">Phần mêm này sẽ tải Minecraft Bedrock trên máy của bạn.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">Chúng tôi khuyên bạn nên đóng các ứng dụng khác trước khi bắt đầu.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Nhấn Tiếp theo để tiếp tục hoặc Hủy bỏ để thoát cài đặt.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Nhấn Tiếp để tiếp tục hoặc Hủy bỏ để thoát cài đặt.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Thỏa thuận cấp phép</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">sự đồng ý trước khi bắt đầu việc tải xuống.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Tôi chấp nhận với giấy phép.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Vui lòng đọc Thỏa thuận cấp phép sau đây. Bạn phải chấp nhận các điều khoản của điều này.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">thỏa thuận trước khi tiếp tục cài đặt.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Tôi chấp nhận giấy phép.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Tôi không chấp nhận giấy phép.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Hãy chọn cách để tải</v:String>
+    <v:String x:Key="Installer_InstallType_Title">Chọn loại cài đặt</v:String>
     <v:String x:Key="Installer_InstallType_Info_Text">Chọn phiên bản trình khởi chạy bạn muốn tải xuống</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Phiên bản beta</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Phiên bản Beta</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Bản phát hành</v:String>
 
     <v:String x:Key="Installer_InstallType_ReleaseInfo">Phiên bản ổn định nhất của trình khởi chạy nhưng không phải là phiên bản cập nhật nhất</v:String>
@@ -44,7 +44,7 @@
     <v:String x:Key="Installer_InstallLocation_Browse_Text">DUYỆT</v:String>
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Tạo biểu tượng trên màn hình</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Thêm vào mục thanh biểu tượng</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Thêm vào thanh bắt đầu</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Đăng ký chương trình</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Bắt đầu chương trình khi thoát</v:String>
