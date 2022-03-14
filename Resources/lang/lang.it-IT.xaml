@@ -45,14 +45,14 @@
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Crea un'icona sul desktop</v:String>
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Aggiungi al menu iniziale</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Registra Programma</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Avvia il programma alla chiusura</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Alcuni dei file sono attualmente in uso dai seguenti:</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Installazione</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Per favore, aspetta finché il Setup installa Minecraft Bedrock Launcher sul tuo computer.</v:String>
 
 
     <!--#endregion-->
@@ -85,7 +85,7 @@
     <v:String x:Key="GeneralText_Update">Aggiorna</v:String>
     <v:String x:Key="GeneralText_Add">Aggiungi</v:String>
     <v:String x:Key="GeneralText_Save">Salva</v:String>
-    <v:String x:Key="GeneralText_Refresh">Ricarica</v:String>
+    <v:String x:Key="GeneralText_Refresh">Aggiorna</v:String>
     <v:String x:Key="GeneralText_Backup">Fai un back-up</v:String>
     <v:String x:Key="GeneralText_Versions">Versioni</v:String>
     <v:String x:Key="GeneralText_Browse">Sfoglia</v:String>
