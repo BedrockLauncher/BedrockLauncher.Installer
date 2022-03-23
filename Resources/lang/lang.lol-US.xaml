@@ -8,7 +8,7 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_Title">Block Game Launcher Setup Wizzard</v:String>
 
     <v:String x:Key="Installer_Back_Text">Beck</v:String>
     <v:String x:Key="Installer_Next_Text">Nxt</v:String>
