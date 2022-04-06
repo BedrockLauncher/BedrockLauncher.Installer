@@ -22,8 +22,8 @@
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Pindutin ang Sunod upang magpatuloy, o Ipagpaliban upang umalis sa Pagsasaayos.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Kasunduan sa Lisensiya</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Mangyaring pakibasa ang sumusunod na Kasunduan sa Lisensiya. Dapat mong tanggapin ang mga tuntunin ng</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">kasunduang ito bago magpatuloy sa pagtalaga.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Mangyaring pakibasa ang sumusunod na Kasunduan sa Lisensiya. Dapat mong tanggapin ang mga tuntunin ng.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">kasunduang ito bago magpatuloy sa pagtatalaga.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Tinatanggap ko ang lisensiya.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Itinatakwil ko ang lisensiya.</v:String>
 
@@ -45,7 +45,7 @@
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Lumikha ng larawang panghapag</v:String>
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Idagdag sa talaan ng Simula</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Magpatala ng Programa</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Magrehistro ng Programa</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Simulan ang Programa sa Alis</v:String>
 
@@ -99,13 +99,13 @@
 
     <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
     <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Pook-Sapot</v:String>
+    <v:String x:Key="GeneralText_Website">Pahinarya</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">BERSIYON</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">MGA BERSIYON</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">MAGSALIKSIK</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">IBALIK SA DATI</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">MGA KATEGORYA</v:String>
