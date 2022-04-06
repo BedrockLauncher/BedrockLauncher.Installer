@@ -8,15 +8,15 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Tagakompigura ng Pagsasaayos ng Tagalunsad ng Minecraft Bedrock</v:String>
+    <v:String x:Key="Installer_Title">Tagakompigura ng Pagsasaayos ng Tagalunsad para sa Minecraft Bedrock</v:String>
 
     <v:String x:Key="Installer_Back_Text">Bumalik</v:String>
     <v:String x:Key="Installer_Next_Text">Sunod</v:String>
-    <v:String x:Key="Installer_Install_Text">Italaga</v:String>
+    <v:String x:Key="Installer_Install_Text">I-talaga</v:String>
     <v:String x:Key="Installer_Cancel_Text">Ipagpaliban</v:String>
     <v:String x:Key="Installer_Finish_Text">Tapos na</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Maligayang Pagdating sa Tagakompigura ng Pagsasaayos ng Tagalunsad ng Minecraft Bedrock</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Maligayang Pagdating sa Tagakompigura ng Pagsasaayos ng Tagalunsad para sa Minecraft Bedrock</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">Itatalaga nito ang Tagalunsad para sa Minecraft Bedrock sa iyong kompyuter.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">Iminumungkahi namin na ipinid muna ang lahat ng iba pang mga aplikasyon bago magpatuloy.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Pindutin ang Sunod upang magpatuloy, o Ipagpaliban upang umalis sa Pagsasaayos.</v:String>
