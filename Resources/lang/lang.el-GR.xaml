@@ -52,14 +52,14 @@
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Μερικά από τα αρχεία χρησιμοποιούνται αυτή τη στιγμή από τα ακόλουθα:</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_Title">Εγκατάσταση</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
 
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Αδυναμία μετακίνησης αρχείου</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">Το Αρχείο Χρησιμοποιείται</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">Προσπαθήστε ξανά?</v:String>
@@ -86,14 +86,14 @@
     <v:String x:Key="GeneralText_Add">Προσθήκη</v:String>
     <v:String x:Key="GeneralText_Save">Αποθήκευση</v:String>
     <v:String x:Key="GeneralText_Refresh">Ανανέωση</v:String>
-    <v:String x:Key="GeneralText_Backup">Backup</v:String>
+    <v:String x:Key="GeneralText_Backup"></v:String>
     <v:String x:Key="GeneralText_Versions">Εκδόσεις</v:String>
     <v:String x:Key="GeneralText_Browse">Περιήγηση</v:String>
     <v:String x:Key="GeneralText_Reset">Επαναφορά</v:String>
     <v:String x:Key="GeneralText_Yes">Ναι</v:String>
     <v:String x:Key="GeneralText_No">Όχι</v:String>
-    <v:String x:Key="GeneralText_Releases">Releases</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
+    <v:String x:Key="GeneralText_Releases"></v:String>
+    <v:String x:Key="GeneralText_Betas"></v:String>
     <v:String x:Key="GeneralText_Export">Εξαγωγή</v:String>
     <v:String x:Key="GeneralText_Repair">Επιδιόρθωση</v:String>
 
