@@ -15,7 +15,8 @@ namespace BedrockLauncher.Installer
     {
         public App()
         {
-            BedrockLauncher.Installer.Language.LanguageManager.Init();
+            BedrockLauncher.Localization.Config.InstallerMode = true;
+            BedrockLauncher.Localization.Language.LanguageManager.Init();
         }
     }
 }

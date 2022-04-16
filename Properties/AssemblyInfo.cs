@@ -3,7 +3,6 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using System.Resources;
 
-[assembly: PostSharp.Community.Packer.Packer()]
 [assembly: AssemblyTitle("Minecraft Bedrock Launcher Setup")]
 [assembly: AssemblyDescription("Installs the Minecraft Bedrock Edition Launcher!")]
 [assembly: AssemblyConfiguration("")]

@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using BedrockLauncher.Installer.Classes;
-using BedrockLauncher.Installer.Language;
+using BedrockLauncher.Localization.Language;
 
 namespace BedrockLauncher.Installer.Pages
 {
@@ -40,7 +40,7 @@ namespace BedrockLauncher.Installer.Pages
             AvaliableLangs.Clear();
             foreach (var language in LanguageManager.GetResourceDictonaries())
             {
-                language.IsSelected = language.Locale == MainWindow.Installer.CurrentLanguage;
+                language.Installer_IsSelected = language.Locale == MainWindow.Installer.CurrentLanguage;
                 AvaliableLangs.Add(language);
             }
 

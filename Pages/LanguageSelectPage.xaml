@@ -4,7 +4,7 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:BedrockLauncher.Installer"
-      xmlns:l="clr-namespace:BedrockLauncher.Installer.Language"
+      xmlns:l="clr-namespace:BedrockLauncher.Localization.Language;assembly=BedrockLauncher.Localization"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="794"
       Title="WelcomePage" Height="371" Loaded="Page_Loaded">

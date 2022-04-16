@@ -1,0 +1,3 @@
+[submodule "BedrockLauncher.Localization"]
+	path = BedrockLauncher.Localization
+	url = https://github.com/BedrockLauncher/BedrockLauncher.Localization.git
